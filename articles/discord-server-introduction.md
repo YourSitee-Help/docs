@@ -1,6 +1,6 @@
 # Discord Server Introduction
 
-Written by: <img src="../.gitbook/assets/contributors/robskan (2).png" alt="" data-size="line"> [Robbie](../about/contributors.md#robskan-project-lead)
+Written by: <img src="../.gitbook/assets/contributors/robskan.png" data-size="line"> [Robbie](../about/contributors.md#robskan-project-lead)
 
 ## Welcome to the YourSitee community.
 
