@@ -6,7 +6,7 @@ icon: flask
 
 Badge description unknown.
 
-<figure><img src="../../.gitbook/assets/Badge Preview - Beta Function.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/archive/profile-badges-101/betaFunction.png" width="375"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **WE NEED YOUR HELP!**

@@ -10,9 +10,13 @@ The people with this badge are either influencers or partners of the YourSitee p
 
 This badge has a few variations, as seen below:
 
-<table><thead><tr><th width="93">Icon</th><th>Name</th></tr></thead><tbody><tr><td><img src="https://cdn.discordapp.com/emojis/1158065314488123456.webp?size=128&#x26;quality=lossless" alt=":verified:" data-size="line"></td><td>Verified Person (most common)</td></tr><tr><td><img src="https://cdn.discordapp.com/emojis/1158065314488123456.webp?size=128&#x26;quality=lossless" alt=":verified:" data-size="line"></td><td>Verified &#x26; Partnered (mostly for official accounts)</td></tr></tbody></table>
+|                                                          Icon                                                          |                        Name                         |
+|:----------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------:|
+| <img height="24" src="https://cdn.discordapp.com/emojis/1158065314488123456.webp?size=128&amp;#x26;quality=lossless"/> |            Verified Person (most common)            |
+| <img height="24" src="https://cdn.discordapp.com/emojis/1158065314488123456.webp?size=128&amp;#x26;quality=lossless"/> | Verified & Partnered (mostly for official accounts) |
 
-<figure><img src="../../.gitbook/assets/Badge Preview - Verified.png" alt="" width="375"><figcaption><p>Visual representation of the Verified badge.</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/archive/profile-badges-101/verified.png" width="375"><figcaption><p>Visual representation of the Verified badge.</p></figcaption></figure>
 
 ## How to apply?
 
