@@ -20,7 +20,7 @@ Satoko is the community manager of YourSitee.
 
 <img src="../.gitbook/assets/image (11).png" alt="" data-size="line"> [@Satoko](https://yoursit.ee/Satoko) | <img src="../.gitbook/assets/twitterlogo.png" alt="" data-size="line"> [@Satoko](https://x.com/thesatoko) |  <img src="../.gitbook/assets/discord-logo-icon-editorial-free-vector.jpg" alt="" data-size="line"> [@thesatoko](https://discord.com/users/491973404434628617)
 
-### &#x20;<img src="../.gitbook/assets/image (21).png" alt="" data-size="line"> BalazsManus <img src="../.gitbook/assets/AuthorBadge.png" alt="" data-size="line">
+### &#x20;<img src="../.gitbook/assets/image (22).png" alt="" data-size="line"> BalazsManus <img src="../.gitbook/assets/AuthorBadge.png" alt="" data-size="line">
 
 I'm a backend dev
 
