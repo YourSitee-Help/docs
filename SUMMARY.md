@@ -20,13 +20,13 @@
   * [Bug Hunter](faq/all-profile-badges/bug-hunter.md)
   * [Early Supporter](faq/all-profile-badges/early-supporter.md)
   * [Soft-Launch](faq/all-profile-badges/soft-launch.md)
-* [Changing Profile Images](faq/profile-images.md)
 * [Short Domains](faq/short-domains.md)
 
 ## Guides
 
 * [Changing your username](guides/changing-username.md)
 * [Discord profile connection](guides/discord-connection.md)
+* [Changing Profile Images](guides/profile-images.md)
 
 ## Articles
 
