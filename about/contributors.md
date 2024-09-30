@@ -28,6 +28,4 @@ I'm a backend dev
 
 ## How to contribute?
 
-You can contribute to this project by visiting our Github repository.
-
-{% embed url="https://github.com/YourSitee-Help/docs" %}
+You can contribute to this project by visiting our <a href="https://github.com/YourSitee-Help/docs" target="_blank" rel="noopener noreferrer">Github repository.</a>
