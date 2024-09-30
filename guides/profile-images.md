@@ -30,7 +30,7 @@ On smaller devices, the image height becomes larger.\
 When you choose a background image, you can't move it around. So, if you want people using PCs to see a character or something important, make sure to place your content within that box.
 
 Example:\
-![](.https://raw.githubusercontent.com/YourSitee-Help/docs/refs/heads/main/.gitbook/assets/guides/profile-images/bg.png)
+![](../.gitbook/assets/guides/pfp-img/bg.png)
 
 ## Editing profile picture
 
