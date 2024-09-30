@@ -1,6 +1,6 @@
 # YourSitee Help FAQ
 
-Written by: <img src="../.gitbook/assets/contributors/robskan.png" data-size="line"> [Robbie](../about/contributors.md#robskan-project-lead)
+Written by: <img src="../.gitbook/assets/contributors/robskan (2).png" alt="" data-size="line"> [Robbie](../about/contributors.md#robskan-project-lead)
 
 The people who run the [@YourSiteeHelp](https://x.com/@YourSiteeHelp) X/Twitter account are here to assist you with YourSitee questions, but they don’t have access to special tools. They are not part of the YourSitee team.
 

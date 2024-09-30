@@ -1,6 +1,6 @@
 # Profile Badges 101
 
-Written by: <img src="../../.gitbook/assets/RobskanDrew-modified (2).png" alt="" data-size="line"> [Robbie](../../about/contributors.md#robskan-project-lead)
+Written by: <img src="../../.gitbook/assets/contributors/robskan (2).png" alt="" data-size="line"> [Robbie](../../about/contributors.md#robskan-project-lead)
 
 Ever wondered what these badges on your friend's profile were or how you can obtain them? I've listed every badge (that's known to me) in this article.
 

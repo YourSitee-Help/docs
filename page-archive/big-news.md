@@ -1,6 +1,6 @@
 # BIG NEWS!
 
-Written by: <img src="../.gitbook/assets/contributors/robskan.png" data-size="line"> [Robbie](../about/contributors.md#robskan-project-lead)
+Written by: <img src="../.gitbook/assets/contributors/robskan (2).png" alt="" data-size="line"> [Robbie](../about/contributors.md#robskan-project-lead)
 
 ## Beta is coming
 
@@ -11,7 +11,7 @@ You heard me, beta is coming! Around an hour ago, @YourSitee posted on X that Al
 * ...that premium will be available to purchase;
 * And so much more than this!
 
-This also means the <img src="../.gitbook/assets/Soft-Launch Card.png" alt="" data-size="line"> badge will no longer be obtainable.&#x20;
+This also means the <img src="../.gitbook/assets/Soft-Launch Card.png" alt="" data-size="line"> badge will no longer be obtainable.
 
 ## Information & news
 
