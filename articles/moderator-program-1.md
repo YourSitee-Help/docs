@@ -4,7 +4,7 @@ hidden: true
 
 # Moderator Crew Program
 
-Written by: <img src="../.gitbook/assets/contributors/satoko.png" data-size="line">[Satoko](../about/contributors.md#satoko-article-writer) (YourSitee Staff)
+Written by: <img src="../.gitbook/assets/contributors/satoko (3).png" alt="" data-size="line">[Satoko](../about/contributors.md#satoko-article-writer) (YourSitee Staff)
 
 {% hint style="danger" %}
 We are not currently looking for new moderators. Check back later!

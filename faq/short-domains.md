@@ -1,13 +1,13 @@
 # Short Domains
 
-Written by: <img src="../.gitbook/assets/contributors/robskan.png" data-size="line"> [Robbie](../about/contributors.md#robskan-project-lead)
+Written by: <img src="../.gitbook/assets/contributors/robskan (2).png" alt="" data-size="line"> [Robbie](../about/contributors.md#robskan-project-lead)
 
 YourSitee has several short domains which are alternatives to the default website, yoursit.ee. If you don't like the main website, there will be a second option, but will still show your page.
 
 ## Shorter links
 
 | Domain     | Supports subdomain\*? | Supports URL\*\*? |
-|------------|-----------------------|-------------------|
+| ---------- | --------------------- | ----------------- |
 | yoursit.ee | ❌                     | ✅                 |
 | ysit.ee    | ✅                     | ✅                 |
 | yrs.bio    | ✅                     | ✅                 |
