@@ -11,7 +11,7 @@ You heard me, beta is coming! Around an hour ago, @YourSitee posted on X that Al
 * ...that premium will be available to purchase;
 * And so much more than this!
 
-This also means the <img src="../.gitbook/assets/Soft-Launch Card.png" alt="" data-size="line"> badge will no longer be obtainable.&#x20;
+This also means the <img src="../.gitbook/assets/badges/softLaunch.png" data-size="line"> badge will no longer be obtainable.
 
 ## Information & news
 
