@@ -28,4 +28,6 @@ I'm a backend dev
 
 ## How to contribute?
 
-Since Gitbook needs a subscription for having more than one person edit the documentation, I can't add any editors to the Gitbook dashboard right now. If you want to help out, just send me a direct message (@robskan) with your ideas for an article or something you've already written. I'll make sure to post it here (un?)officially. Plus, you'll get a mention on this page! :P
+You can contribute to this project by visiting our Github repository.
+
+{% embed url="https://github.com/YourSitee-Help/docs" %}
