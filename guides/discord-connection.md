@@ -1,6 +1,6 @@
 # Discord profile connection
 
-Written by: <img src="../.gitbook/assets/contributors/robskan.png" data-size="line"> [Robbie](../about/contributors.md#robskan-project-lead)
+Written by: <img src="../.gitbook/assets/contributors/robskan (2).png" alt="" data-size="line"> [Robbie](../about/contributors.md#robskan-project-lead)
 
 While sharing your YourSitee link in your Discord bio is completely fine, you can also share it in a modern way: Discord connections. Connections are those funny links at the bottom of someone's profile linking to other services, such as YouTube, Reddit, and Twitch.
 
@@ -8,7 +8,7 @@ Before we begin, make sure you have access to both a YourSitee and Discord accou
 
 ## 1: Edit mode
 
-Head over to the [YourSitee website](https://yoursit.ee) and log in. Then, at the bottom of the screen, click the <img src="../.gitbook/assets/Edit Button.png" alt="" data-size="line"> button to enter Edit mode. Click the avatar image to open the YourSitee Account Settings.&#x20;
+Head over to the [YourSitee website](https://yoursit.ee) and log in. Then, at the bottom of the screen, click the <img src="../.gitbook/assets/Edit%20Button.png" alt="" data-size="line"> button to enter Edit mode. Click the avatar image to open the YourSitee Account Settings.
 
 ## 2: Connections tab
 
@@ -24,11 +24,11 @@ Copy the 'content' from the Domain pop-up. That should look like shown in the im
 
 <figure><img src="../.gitbook/assets/svgexport-1 (8).svg" alt=""><figcaption></figcaption></figure>
 
-After copying, switch back to YourSitee and click 'continue'. Then, paste the content from Discord in the field and click 'Finish'.&#x20;
+After copying, switch back to YourSitee and click 'continue'. Then, paste the content from Discord in the field and click 'Finish'.
 
 ## Last step: Verifying
 
-When Discord detects that you completed the setup using YourSitee, the box turns green. If it doesn't turn green instantly, wait one or two minutes for Discord to detect the changes. Then click 'Verify'.&#x20;
+When Discord detects that you completed the setup using YourSitee, the box turns green. If it doesn't turn green instantly, wait one or two minutes for Discord to detect the changes. Then click 'Verify'.
 
 Done! The domain is now shown on your Discord user profile.
 

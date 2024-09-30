@@ -4,7 +4,6 @@
 
 * [Welcome](README.md)
 * [Contributors](about/contributors.md)
-* [Website Changelog](about/website-changelog.md)
 
 ## Pinned <a href="#pinboard" id="pinboard"></a>
 
