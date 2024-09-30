@@ -1,6 +1,6 @@
 # Changing your username
 
-Written by: <img src="../.gitbook/assets/RobskanDrew-modified (2).png" alt="" data-size="line"> [Robbie](../about/contributors.md#robskan-project-lead)
+Written by: <img src="../.gitbook/assets/contributors/robskan.png" data-size="line"> [Robbie](../about/contributors.md#robskan-project-lead)
 
 {% hint style="danger" %}
 **WARNING!** You can only update your username every 12 months.
