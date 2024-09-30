@@ -1,6 +1,6 @@
 # Changing Profile Images
 
-Written by: [<img src="../.gitbook/assets/image (22).png" alt="" data-size="line"> BalazsManus](../about/contributors.md#balazs)
+Written by: [<img src="../.gitbook/assets/contributors/balazsmanus.png" data-size="line"> BalazsManus](../about/contributors.md#balazs)
 
 {% hint style="info" %}
 The profile pictures should be smaller than 8MiB in size.
@@ -10,9 +10,7 @@ The profile pictures should be smaller than 8MiB in size.
 
 ### 1: Customization button
 
-You may want to go to your YourSitee page and press the "Customization"
-![Customization](../.gitbook/assets/buttons/customization.png)
-button on the bottom navbar.\
+You may want to go to your YourSitee page and press the "Customization" <img src="../.gitbook/assets/buttons/customization.png" data-size="line"> button on the bottom navbar.\
 After that select 'Upload image'.
 
 ### Finding the perfect size
@@ -36,7 +34,7 @@ Example:\
 
 ### 1: Edit mode
 
-On your YourSitee page click the <img src="../.gitbook/assets/Edit Button (1).png" alt="" data-size="line"> button, this switches you to edit mode and you can interact with your "cards".
+On your YourSitee page click the <img src="../.gitbook/assets/buttons/edit.png" data-size="line"> button, this switches you to edit mode and you can interact with your "cards".
 
 ### 2: Profile card
 
