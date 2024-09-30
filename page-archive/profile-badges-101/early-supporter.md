@@ -6,7 +6,7 @@ icon: heart
 
 This badge is awarded to users who have supported YourSitee's development by donating at least $5.&#x20;
 
-<figure><img src="../../.gitbook/assets/Badge Preview - Early Supporter.png" alt="" width="375"><figcaption><p>Visual representation of the Early Supporter badge</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/archive/profile-badges-101/earlySupporter.png" width="375"><figcaption><p>Visual representation of the Early Supporter badge</p></figcaption></figure>
 
 ## Good to know
 
