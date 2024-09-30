@@ -1,7 +1,6 @@
 # Welcome
 
-Hi there! Welcome to the **unofficial** YourSitee documentation. You will find updates, tutorials, and more on this site. Got any questions? Use CTRL+K or use the search bar in the top right to search through the site.
+Welcome to the **unofficial** YourSitee documentation. This community-run project is focused on bringing you tutorials until YourSitee releases one themselves.
 
-{% hint style="info" %}
-Got a quick question? Just tweet it to us at [@YourSiteeHelp](https://x.com/YourSiteeHelp) on Twitter/X!
-{% endhint %}
+* Twitter/X: [@YourSiteeHelp](https://x.com/YourSiteeHelp)&#x20;
+* Discord: [https://discord.gg/SCWedJUCVC](https://discord.gg/SCWedJUCVC)
