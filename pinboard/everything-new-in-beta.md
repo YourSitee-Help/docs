@@ -1,6 +1,6 @@
 # Everything new in beta
 
-Written by: <img src="../.gitbook/assets/contributors/robskan.png" alt="" data-size="line"> [Robbie](../about/contributors.md#robskan-project-lead)
+Written by: <img src="../.gitbook/assets/contributors/robskan (2).png" alt="" data-size="line"> [Robbie](../about/contributors.md#robskan-project-lead)
 
 As YourSitee didn't provide us with one, here is a list of new features:
 

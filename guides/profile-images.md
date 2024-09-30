@@ -1,6 +1,6 @@
 # Changing Profile Images
 
-Written by: [<img src="../.gitbook/assets/contributors/balazsmanus.png" data-size="line"> BalazsManus](../about/contributors.md#balazs)
+Written by: [<img src="../.gitbook/assets/contributors/balazsmanus.png" alt="" data-size="line"> BalazsManus](../about/contributors.md#balazs)
 
 {% hint style="info" %}
 The profile pictures should be smaller than 8MiB in size.
@@ -10,7 +10,7 @@ The profile pictures should be smaller than 8MiB in size.
 
 ### 1: Customization button
 
-You may want to go to your YourSitee page and press the "Customization" <img src="../.gitbook/assets/buttons/customization.png" data-size="line"> button on the bottom navbar.\
+You may want to go to your YourSitee page and press the "Customization" <img src="../.gitbook/assets/buttons/customization.png" alt="" data-size="line"> button on the bottom navbar.\
 After that select 'Upload image'.
 
 ### Finding the perfect size
@@ -34,7 +34,7 @@ Example:\
 
 ### 1: Edit mode
 
-On your YourSitee page click the <img src="../.gitbook/assets/buttons/edit.png" data-size="line"> button, this switches you to edit mode and you can interact with your "cards".
+On your YourSitee page click the <img src="../.gitbook/assets/buttons/edit (1).png" alt="" data-size="line"> button, this switches you to edit mode and you can interact with your "cards".
 
 ### 2: Profile card
 
@@ -49,5 +49,5 @@ Under the Profile picture section click on the "Change" button.
 {% hint style="danger" %}
 The 3.55:1 ratio isn't used for profile pictures. Instead, they have a 1:1 ratio.
 
-<img src="../.gitbook/assets/guides/profile-images/pfp.png" data-size="original">
+<img src="../.gitbook/assets/guides/profile-images/pfp.png" alt="" data-size="original">
 {% endhint %}
