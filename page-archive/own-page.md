@@ -1,6 +1,6 @@
 # How do I get my own page?
 
-Written by: <img src="../.gitbook/assets/contributors/robskan (2).png" alt="" data-size="line"> [Robbie](../about/contributors.md#robskan-project-lead)
+Written by: <img src="../.gitbook/assets/contributors/robskan.png" data-size="line"> [Robbie](../about/contributors.md#robskan-project-lead)
 
 Since YourSitee is still in the Alpha stage, just signing up won't be enough. You'll have to join a waitlist to create an account. But don't stress, it should be pretty easy!
 

@@ -1,6 +1,6 @@
 # Changing your username
 
-Written by: <img src="../.gitbook/assets/contributors/robskan (2).png" alt="" data-size="line"> [Robbie](../about/contributors.md#robskan-project-lead)
+Written by: <img src="../.gitbook/assets/contributors/robskan.png" data-size="line"> [Robbie](../about/contributors.md#robskan-project-lead)
 
 {% hint style="danger" %}
 **WARNING!** You can only update your username every 12 months.
@@ -18,7 +18,7 @@ Go to the [YourSitee website](https://yoursit.ee) and log in. Then, at the botto
 
 When in edit mode, click anywhere on the widget that contains your profile icon, username, and bio. A screen should pop up where you can edit anything about the profile card. Scroll down until you see 'Username' (image below).
 
-<figure><img src="../.gitbook/assets/chrome_CASRbiBAb0.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/chrome_CASRbiBAb0.png"><figcaption></figcaption></figure>
 
 Type the new username you would like to use and save your changes.
 
