@@ -1,6 +1,6 @@
 # Moderator Crew Program
 
-Written by: <img src="../.gitbook/assets/image (18).png" alt="" data-size="line">[Satoko](../about/contributors.md#satoko-article-writer) <img src="../.gitbook/assets/YourSiteeStaffBadge (1).png" alt="" data-size="line">
+Written by: <img src="../.gitbook/assets/contributors/satoko.png" data-size="line">[Satoko](../about/contributors.md#satoko-article-writer) <img src="../.gitbook/assets/YourSiteeStaffBadge (1).png" alt="" data-size="line">
 
 {% hint style="danger" %}
 We are not currently looking for new moderators. Check back later!
