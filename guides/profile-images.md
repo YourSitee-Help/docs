@@ -23,14 +23,14 @@ On smaller devices, the image height becomes larger.\
 
 |                           PC                            |              Mobile               |
 |:-------------------------------------------------------:|:---------------------------------:|
-| ![](../.gitbook/assets/guides/pfp-img/size1.png) | ![](../.gitbook/assets/guides/pfp-img/size2.png) |
+| ![](../.gitbook/assets/guides/profile-images/size1.png) | ![](../.gitbook/assets/guides/profile-images/size2.png) |
 
 3.55:1 = 1920x1080 → 1920x541
 
 When you choose a background image, you can't move it around. So, if you want people using PCs to see a character or something important, make sure to place your content within that box.
 
 Example:\
-![](../.gitbook/assets/guides/pfp-img/bg.png)
+![](../.gitbook/assets/guides/profile-images/bg.png)
 
 ## Editing profile picture
 
@@ -51,6 +51,6 @@ Under the Profile picture section click on the "Change" button.
 {% hint style="danger" %}
 The 3.55:1 ratio isn't used for profile pictures. Instead, they have a 1:1 ratio.
 
-![](../.gitbook/assets/guides/pfp-img/pfp.png)
+![](../.gitbook/assets/guides/profile-images/pfp.png)
 {% endhint %}
 
