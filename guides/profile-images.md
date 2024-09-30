@@ -19,8 +19,8 @@ After 768px screen width, the 3.55:1 aspect ratio applies.\
 On smaller devices, the image height becomes larger.\
 (Mobile users see a much larger image than PC users.)
 
-|                           PC                            |              Mobile               |
-|:-------------------------------------------------------:|:---------------------------------:|
+|                           PC                            |                         Mobile                          |
+|:-------------------------------------------------------:|:-------------------------------------------------------:|
 | ![](../.gitbook/assets/guides/profile-images/size1.png) | ![](../.gitbook/assets/guides/profile-images/size2.png) |
 
 3.55:1 = 1920x1080 → 1920x541

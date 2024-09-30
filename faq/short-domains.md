@@ -7,7 +7,7 @@ YourSitee has several short domains which are alternatives to the default websit
 ## Shorter links
 
 | Domain     | Supports subdomain\*? | Supports URL\*\*? |
-| ---------- | --------------------- | ----------------- |
+|------------|-----------------------|-------------------|
 | yoursit.ee | ❌                     | ✅                 |
 | ysit.ee    | ✅                     | ✅                 |
 | yrs.bio    | ✅                     | ✅                 |
