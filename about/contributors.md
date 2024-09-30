@@ -6,7 +6,7 @@ Below is a list of everyone that has worked on this help center/documentation.
 
 Hi! I'm Robskan, better known as Robbie, and I'm the main editor & founder of this project. I noticed there wasn't really a knowledge base — yet, so I've gone ahead and made this one. Got any questions? Feel free to leave a message on Discord.
 
-<img src="../.gitbook/assets/socials/yoursitee.png" data-size="line"> [@rob](https://yoursit.ee/rob) | <img src="../.gitbook/assets/socials/twitter.png"  data-size="line"> [@robskan](https://x.com/Robskan) | <img src="../.gitbook/assets/socials/discord.jpg"  data-size="line"> [@robskan](https://discord.com/users/791957021728702464)
+<img src="../.gitbook/assets/socials/yoursitee.png" data-size="line"> <a href="https://yoursit.ee/rob" target="_blank" rel="noopener noreferrer">@rob</a> | <img src="../.gitbook/assets/socials/twitter.png"  data-size="line"> <a href="https://x.com/Robskan" target="_blank" rel="noopener noreferrer">@Robskan</a> | <img src="../.gitbook/assets/socials/discord.jpg"  data-size="line"> <a href="https://discord.com/users/791957021728702464" target="_blank" rel="noopener noreferrer">@robskan</a>
 
 ### <img src="../.gitbook/assets/contributors/w4sb0y.png" data-size="line"> w4sb0y <img src="../.gitbook/assets/badges/domainDonator.png"  data-size="line">
 
