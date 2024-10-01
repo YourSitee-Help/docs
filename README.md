@@ -4,3 +4,4 @@ Welcome to the **unofficial** YourSitee documentation. This community-run projec
 
 * Twitter/X: [@YourSiteeHelp](https://x.com/YourSiteeHelp)&#x20;
 * Discord: [https://discord.gg/SCWedJUCVC](https://discord.gg/SCWedJUCVC)
+![](https://komarev.com/ghpvc/?username=YourSitee-Help&style=pixel)
