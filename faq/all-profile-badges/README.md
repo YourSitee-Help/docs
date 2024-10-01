@@ -1,11 +1,14 @@
 # All profile badges
 
-Written by: <img src="../../.gitbook/assets/contributors/robskan (2).png" alt="" data-size="line"> [Robbie](../../about/contributors.md#robskan-project-lead)
+Written
+by: <img src="../../.gitbook/assets/contributors/robskan (2).png" alt="" data-size="line"> [Robbie](../../about/contributors.md#robskan-project-lead)
 
-Ever wondered what these badges on your friend's profile were or how you can obtain them? I've listed every badge (that's known to me) in this article.
+Ever wondered what these badges on your friend's profile were or how you can obtain them? I've listed every badge (
+that's known to me) in this article.
 
 {% hint style="info" %}
-Because the Beta update just came out, this page is incomplete. Please stand by while we're working on this. Thanks for your understanding!
+Because the Beta update just came out, this page is incomplete. Please stand by while we're working on this. Thanks for
+your understanding!
 {% endhint %}
 
 <table>
