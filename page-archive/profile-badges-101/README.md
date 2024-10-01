@@ -6,16 +6,18 @@ Ever wondered what these badges on your friend's profile were or how you can obt
 
 ## Common badges
 
-|                                                                      Icon                                                                      | Name                                                                                       | Obtainable? |
-|:----------------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------|:------------|
-|      <img alt=":staff:" height="24" src="https://cdn.discordapp.com/emojis/1158065283727102092.webp?size=128&amp;#x26;quality=lossless"/>      | [YourSitee Staff](https://yoursitee.xd.hu/page-archive/profile-badges-101/yoursitee-staff) | ✅           |
-|    <img alt=":verified:" height="24" src="https://cdn.discordapp.com/emojis/1158065314488123456.webp?size=128&amp;#x26;quality=lossless"/>     | [Verified](https://yoursitee.xd.hu/page-archive/profile-badges-101/verified)               | ❌           |
-|   <img alt=":bug_hunter:" height="24" src="https://cdn.discordapp.com/emojis/1158065054592278569.webp?size=128&amp;#x26;quality=lossless"/>    | [Bug Hunter](https://yoursitee.xd.hu/page-archive/profile-badges-101/bug-hunter)           | ✅           |
-| <img alt=":early_supporter:" height="24" src="https://cdn.discordapp.com/emojis/1158065116655399084.webp?size=128&amp;#x26;quality=lossless"/> | [Early Supporter](https://yoursitee.xd.hu/page-archive/profile-badges-101/early-supporter) | ✅           |
-|   <img alt=":soft_launch:" height="24" src="https://cdn.discordapp.com/emojis/1158065273258115103.webp?size=128&amp;#x26;quality=lossless"/>   | [Soft Launch](https://yoursitee.xd.hu/page-archive/profile-badges-101/soft-launch)         | ✅           |
+<table>
+<tr><td width="24">Icon</td><td>Name</td><td>Obtainable?</td></tr>
+<tr><td><img alt=":staff:" height="24" src="https://cdn.discordapp.com/emojis/1158065283727102092.webp?size=128&amp;#x26;quality=lossless"/></td><td><a href="https://yoursitee.xd.hu/page-archive/profile-badges-101/yoursitee-staff">YourSitee Staff</a></td><td>✅</td></tr>
+<tr><td><img alt=":verified:" height="24" src="https://cdn.discordapp.com/emojis/1158065314488123456.webp?size=128&amp;#x26;quality=lossless"/></td><td><a href="https://yoursitee.xd.hu/page-archive/profile-badges-101/verified">Verified</a></td><td>❌</td></tr>
+<tr><td><img alt=":bug_hunter:" height="24" src="https://cdn.discordapp.com/emojis/1158065054592278569.webp?size=128&amp;#x26;quality=lossless"/></td><td><a href="https://yoursitee.xd.hu/page-archive/profile-badges-101/bug-hunter">Bug Hunter</a></td><td>✅</td></tr>
+<tr><td><img alt=":early_supporter:" height="24" src="https://cdn.discordapp.com/emojis/1158065116655399084.webp?size=128&amp;#x26;quality=lossless"/></td><td><a href="https://yoursitee.xd.hu/page-archive/profile-badges-101/early-supporter">Early Supporter</a></td><td>✅</td></tr>
+<tr><td><img alt=":soft_launch:" height="24" src="https://cdn.discordapp.com/emojis/1158065273258115103.webp?size=128&amp;#x26;quality=lossless"/></td><td><a href="https://yoursitee.xd.hu/page-archive/profile-badges-101/soft-launch">Soft Launch</a></td><td>✅</td></tr>
+</table>
 
 ## Epic badges (who even has these?)
 
-|                                              Icon                                              | Name                                                                                   | Obtainable? |
-|:----------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------|:------------|
-| <img height="24" src="../../.gitbook/assets/archive/profile-badges-101/betaFeatureBadge.png"/> | [Beta Function](https://yoursitee.xd.hu/page-archive/profile-badges-101/beta-function) | ❌           |
+<table>
+<tr><td width="24">Icon</td><td>Name</td><td>Obtainable?</td></tr>
+<tr><td><img height="24" src="../../.gitbook/assets/archive/profile-badges-101/betaFeatureBadge.png"/></td><td><a href="https://yoursitee.xd.hu/page-archive/profile-badges-101/beta-function">Beta Function</a></td><td>❌</td></tr>
+</table>
