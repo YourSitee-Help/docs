@@ -1,10 +1,10 @@
 # Contributors
 
-Below is a list of everyone that has worked on this help center/documentation.
+Below is a list of everyone who has worked on this help center/documentation.
 
-### <img src="../.gitbook/assets/contributors/robskan (2).png" alt="" data-size="line"> Robskan <img src="../.gitbook/assets/badges/projectLead.png" alt="" data-size="line">
+### <img src="../.gitbook/assets/contributors/robskan (2).png" alt="" data-size="line"> Robskan
 
-Hi! I'm Robskan, better known as Robbie, and I'm the main editor & founder of this project. I noticed there wasn't really a knowledge base — yet, so I've gone ahead and made this one. Got any questions? Feel free to leave a message on Discord.
+Hi! I'm Robskan, better known as Robbie, and I'm this project's main editor & founder. I noticed there wasn't really a knowledge base — yet, so I've gone ahead and made this one. Have you got any questions? Feel free to leave a message on Discord.
 
 <img src="../.gitbook/assets/socials/yoursitee.png" alt="" data-size="line"> [@rob](https://yoursit.ee/rob) | <img src="../.gitbook/assets/socials/twitter.png" alt="" data-size="line"> [@Robskan](https://x.com/Robskan) | <img src="../.gitbook/assets/socials/discord.jpg" alt="" data-size="line"> [@robskan](https://discord.com/users/791957021728702464)
 
