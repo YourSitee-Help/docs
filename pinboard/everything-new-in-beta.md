@@ -33,7 +33,6 @@ As YourSitee didn't provide us with one, here is a list of new features:
 * NameMC;
 * osu!;
 * League of Legends;
-* Rockstar Games;
 * CashApp;
 * Revolut; and
 * Wise.
