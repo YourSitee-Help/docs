@@ -8,14 +8,15 @@ Ever wondered what these badges on your friend's profile were or how you can obt
 Because the Beta update just came out, this page is incomplete. Please stand by while we're working on this. Thanks for your understanding!
 {% endhint %}
 
-| Icon                                                                                        | Name                                                                                                   | Obtainable? |
-|---------------------------------------------------------------------------------------------| ------------------------------------------------------------------------------------------------------ | ----------- |
-| ![:staff:](../../.gitbook/assets/faq/all-profile-badges/yoursiteeStaff.png){ width: 24px; } | [YourSitee Staff](https://yoursitee.xd.hu/faq/all-profile-badges/yoursitee-staff)                      | ❌           |
-| ![:verified:](../../.gitbook/assets/faq/all-profile-badges/verified.png){ width: 24px; }                    | [Verified Person](https://yoursitee.xd.hu/faq/all-profile-badges/verified#verified-person)             | ✅           |
-| ![](../../.gitbook/assets/faq/all-profile-badges/verifiedOrg.png){ width: 24px; }                           | [Verified Organization](https://yoursitee.xd.hu/faq/all-profile-badges/verified#verified-organization) | ✅           |
-| ![](../../.gitbook/assets/faq/all-profile-badges/governmentOfficial.png){ width: 24px; }                    | [Government Official](https://yoursitee.xd.hu/faq/all-profile-badges/verified#government-official)     | ✅           |
-| ![](../../.gitbook/assets/faq/all-profile-badges/premium.png){ width: 24px; }                               | [Premium](https://yoursitee.xd.hu/faq/all-profile-badges/premium)                                      | ❌           |
-| ![](../../.gitbook/assets/faq/all-profile-badges/bugHunter.png){ width: 24px; }                             | [Bug Hunter](https://yoursitee.xd.hu/faq/all-profile-badges/bug-hunter#bug-hunter)                     | ✅           |
-| ![](../../.gitbook/assets/faq/all-profile-badges/bugHunterPlus.png){ width: 24px; }                         | [Bug Hunter Plus](https://yoursitee.xd.hu/faq/all-profile-badges/bug-hunter#bug-hunter-plus)           | ✅           |
-| ![](../../.gitbook/assets/faq/all-profile-badges/earlySupporter.png){ width: 24px; }                        | [Early Supporter](https://yoursitee.xd.hu/faq/all-profile-badges/early-supporter)                      | ✅           |
-| ![](../../.gitbook/assets/faq/all-profile-badges/softLaunch.png){ width: 24px; }                            | [Soft Launch](https://yoursitee.xd.hu/faq/all-profile-badges/soft-launch)                              | ❌           |
+<table>
+<tr><td width="48">Icon</td><td>Name</td><td>Obtainable?</td></tr>
+<tr><td><img src="../../.gitbook/assets/faq/all-profile-badges/yoursiteeStaff.png" alt=":staff:" /></td><td><a href="https://yoursitee.xd.hu/faq/all-profile-badges/yoursitee-staff">YourSitee Staff</a></td><td>❌</td></tr>
+<tr><td><img src="../../.gitbook/assets/faq/all-profile-badges/verified.png" alt=":verified:" /></td><td><a href="https://yoursitee.xd.hu/faq/all-profile-badges/verified#verified-person">Verified Person</a></td><td>✅</td></tr>
+<tr><td><img src="../../.gitbook/assets/faq/all-profile-badges/verifiedOrg.png" alt="" /></td><td><a href="https://yoursitee.xd.hu/faq/all-profile-badges/verified#verified-organization">Verified Organization</a></td><td>✅</td></tr>
+<tr><td><img src="../../.gitbook/assets/faq/all-profile-badges/governmentOfficial.png" alt="" /></td><td><a href="https://yoursitee.xd.hu/faq/all-profile-badges/verified#government-official">Government Official</a></td><td>✅</td></tr>
+<tr><td><img src="../../.gitbook/assets/faq/all-profile-badges/premium.png" alt="" /></td><td><a href="https://yoursitee.xd.hu/faq/all-profile-badges/premium">Premium</a></td><td>❌</td></tr>
+<tr><td><img src="../../.gitbook/assets/faq/all-profile-badges/bugHunter.png" alt="" /></td><td><a href="https://yoursitee.xd.hu/faq/all-profile-badges/bug-hunter#bug-hunter">Bug Hunter</a></td><td>✅</td></tr>
+<tr><td><img src="../../.gitbook/assets/faq/all-profile-badges/bugHunterPlus.png" alt="" /></td><td><a href="https://yoursitee.xd.hu/faq/all-profile-badges/bug-hunter#bug-hunter-plus">Bug Hunter Plus</a></td><td>✅</td></tr>
+<tr><td><img src="../../.gitbook/assets/faq/all-profile-badges/earlySupporter.png" alt="" /></td><td><a href="https://yoursitee.xd.hu/faq/all-profile-badges/early-supporter">Early Supporter</a></td><td>✅</td></tr>
+<tr><td><img src="../../.gitbook/assets/faq/all-profile-badges/softLaunch.png" alt="" /></td><td><a href="https://yoursitee.xd.hu/faq/all-profile-badges/soft-launch">Soft Launch</a></td><td>❌</td></tr>
+</table>
