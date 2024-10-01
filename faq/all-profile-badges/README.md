@@ -9,7 +9,7 @@ Because the Beta update just came out, this page is incomplete. Please stand by 
 {% endhint %}
 
 <table>
-<tr><td>Icon</td><td>Name</td><td>Obtainable?</td></tr>
+<tr><td style="max-width: 48px;">Icon</td><td>Name</td><td>Obtainable?</td></tr>
 <tr><td><img alt=":staff:" height="24" src="../../.gitbook/assets/faq/all-profile-badges/yoursiteeStaff.png" width="24"/></td><td><a href="https://yoursitee.xd.hu/faq/all-profile-badges/yoursitee-staff">YourSitee Staff</a></td><td>❌</td></tr>
 <tr><td><img alt=":verified:" height="24" src="../../.gitbook/assets/faq/all-profile-badges/verified.png" width="24"/></td><td><a href="https://yoursitee.xd.hu/faq/all-profile-badges/verified#verified-person">Verified Person</a></td><td>✅</td></tr>
 <tr><td><img height="24" src="../../.gitbook/assets/faq/all-profile-badges/verifiedOrg.png" width="24"/></td><td><a href="https://yoursitee.xd.hu/faq/all-profile-badges/verified#verified-organization">Verified Organization</a></td><td>✅</td></tr>
