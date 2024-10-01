@@ -6,7 +6,7 @@ YourSitee has several short domains which are alternatives to the default websit
 
 ## Shorter links
 
-| Domain     | Supports subdomain\*? | Supports URL\*\*? |
+| Domain     | Supports subdomain (1)? | Supports URL(2)? |
 | ---------- | --------------------- | ----------------- |
 | yoursit.ee | ❌                     | ✅                 |
 | ysit.ee    | ✅                     | ✅                 |
@@ -14,8 +14,8 @@ YourSitee has several short domains which are alternatives to the default websit
 | yrs.lol    | ✅                     | ✅                 |
 | yrs.wtf    | ✅                     | ✅                 |
 
-\*Subdomain: `username.domain.tld` (eg. rob.yrs.bio)\
-\*\*URL: `domain.tld/username` (eg. yrs.bio/rob)
+(1)Subdomain: `username.domain.tld` (eg. rob.yrs.bio)\
+(2)URL: `domain.tld/username` (eg. yrs.bio/rob)
 
 ## How do they work?
 
