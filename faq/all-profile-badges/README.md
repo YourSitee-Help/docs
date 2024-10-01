@@ -12,7 +12,7 @@ your understanding!
 {% endhint %}
 
 <table>
-<tr><td width="48">Icon</td><td>Name</td><td>Obtainable?</td></tr>
+<tr><td width="24">Icon</td><td>Name</td><td>Obtainable?</td></tr>
 <tr><td><img src="../../.gitbook/assets/faq/all-profile-badges/yoursiteeStaff.png" alt=":staff:" /></td><td><a href="https://yoursitee.xd.hu/faq/all-profile-badges/yoursitee-staff">YourSitee Staff</a></td><td>❌</td></tr>
 <tr><td><img src="../../.gitbook/assets/faq/all-profile-badges/verified.png" alt=":verified:" /></td><td><a href="https://yoursitee.xd.hu/faq/all-profile-badges/verified#verified-person">Verified Person</a></td><td>✅</td></tr>
 <tr><td><img src="../../.gitbook/assets/faq/all-profile-badges/verifiedOrg.png" alt="" /></td><td><a href="https://yoursitee.xd.hu/faq/all-profile-badges/verified#verified-organization">Verified Organization</a></td><td>✅</td></tr>
