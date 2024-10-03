@@ -1,18 +1,18 @@
 # Short Domains
 
-Written by: <img src="../.gitbook/assets/contributors/robskan (2).png" alt="" data-size="line"> [Robbie](../about/contributors.md#robskan-project-lead)
+Written by: <img src="../.gitbook/assets/contributors/robskan (2).png" alt="" data-size="line"> [Robbie](../about/contributors.md#robskan)
 
 YourSitee has several short domains which are alternatives to the default website, yoursit.ee. If you don't like the main website, there will be a second option, but will still show your page.
 
 ## Shorter links
 
 | Domain     | Supports subdomain (1)? | Supports URL(2)? |
-| ---------- | --------------------- | ----------------- |
-| yoursit.ee | ❌                     | ✅                 |
-| ysit.ee    | ✅                     | ✅                 |
-| yrs.bio    | ✅                     | ✅                 |
-| yrs.lol    | ✅                     | ✅                 |
-| yrs.wtf    | ✅                     | ✅                 |
+| ---------- | ----------------------- | ---------------- |
+| yoursit.ee | ❌                       | ✅                |
+| ysit.ee    | ✅                       | ✅                |
+| yrs.bio    | ✅                       | ✅                |
+| yrs.lol    | ✅                       | ✅                |
+| yrs.wtf    | ✅                       | ✅                |
 
 (1)Subdomain: `username.domain.tld` (eg. rob.yrs.bio)\
 (2)URL: `domain.tld/username` (eg. yrs.bio/rob)

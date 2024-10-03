@@ -1,6 +1,6 @@
 # Changing Profile Images
 
-Written by: [<img src="../.gitbook/assets/contributors/balazsmanus.png" alt="" data-size="line"> BalazsManus](../about/contributors.md#balazs)
+Written by: [<img src="../.gitbook/assets/contributors/balazsmanus.png" alt="" data-size="line"> BalazsManus](../about/contributors.md#balazsmanus)
 
 {% hint style="info" %}
 The profile pictures should be smaller than 8MiB in size.

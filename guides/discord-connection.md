@@ -1,6 +1,6 @@
 # Discord profile connection
 
-Written by: <img src="../.gitbook/assets/contributors/robskan (2).png" alt="" data-size="line"> [Robbie](../about/contributors.md#robskan-project-lead)
+Written by: <img src="../.gitbook/assets/contributors/robskan (2).png" alt="" data-size="line"> [Robbie](../about/contributors.md#robskan)
 
 While sharing your YourSitee link in your Discord bio is completely fine, you can also share it in a modern way: Discord connections. Connections are those funny links at the bottom of someone's profile linking to other services, such as YouTube, Reddit, and Twitch.
 
