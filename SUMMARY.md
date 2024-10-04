@@ -7,7 +7,6 @@
 
 ## Pinned <a href="#pinboard" id="pinboard"></a>
 
-* [Everything new in beta](pinboard/everything-new-in-beta.md)
 * [Goodbye alpha, welcome beta!](pinboard/goodbye-alpha-welcome-beta.md)
 
 ## faq

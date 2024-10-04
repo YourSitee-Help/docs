@@ -10,7 +10,7 @@ Hi! I'm Robskan, better known as Robbie, and I'm this project's main editor & fo
 
 ### <img src="../.gitbook/assets/contributors/w4sb0y.png" alt="" data-size="line"> w4sb0y
 
-As soon as w4sb0y found out about this project, he sent me a direct message (DM) asking if I wanted a custom domain. I said yes, and that’s how this documentation ended up with the domain yoursitee.xd.hu.
+When w4sb0y found out about this project, he sent me a direct message asking if I wanted a custom domain. I said yes, and that’s how this documentation ended up with the domain yoursitee.xd.hu. The subdomain retired on the 3rd of September, 2024.
 
 <img src="../.gitbook/assets/socials/yoursitee.png" alt="" data-size="line"> [@w](https://yoursit.ee/w) | <img src="../.gitbook/assets/socials/discord.jpg" alt="" data-size="line"> [@w4sb0y](https://discord.com/users/439709934142095360)
 
