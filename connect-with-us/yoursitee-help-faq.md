@@ -29,7 +29,7 @@ We can help with many problems, but there are some questions we can't answer.
 If you're having any of the problems mentioned above, make sure to reach out to the official support team at YourSitee. You can find them on their Discord server.
 
 {% hint style="info" %}
-You may join YourSitee's Discord server at [https://discord.gg/BZt6Kyr573](https://discord.gg/BZt6Kyr573).
+You can join YourSitee's Discord server at [https://discord.gg/BZt6Kyr573](https://discord.gg/BZt6Kyr573).
 {% endhint %}
 
 If you've submitted a ticket to YourSitee's support, please be patient as they assist you. Please do not contact us, as your inquiry is already being handled. Thank you for your understanding.
