@@ -6,9 +6,13 @@ YourSitee has several short domains which are alternatives to the default websit
 
 ## Official links
 
+These links are managed and operated by YourSitee. All data collected (if any) falls under YourSitee's [privacy policy](https://yoursit.ee/privacy).
+
 <table><thead><tr><th>Domain</th><th data-type="checkbox">Supports subdomain¹?</th><th data-type="checkbox">Supports URL²?</th></tr></thead><tbody><tr><td>yoursit.ee</td><td>false</td><td>true</td></tr><tr><td>ysit.ee</td><td>true</td><td>true</td></tr><tr><td>yrs.bio</td><td>true</td><td>true</td></tr><tr><td>yrs.lol</td><td>true</td><td>true</td></tr><tr><td>yrs.wtf</td><td>true</td><td>true</td></tr></tbody></table>
 
 ## Unofficial links
+
+These links are not managed or operated by YourSitee, meaning that all collected data (if any) does **not** fall under YourSitee's privacy policy.&#x20;
 
 <table><thead><tr><th>Domain</th><th data-type="checkbox">Supports subdomain¹?</th><th data-type="checkbox">Supports URL²?</th></tr></thead><tbody><tr><td>is-on.top</td><td>true</td><td>false</td></tr></tbody></table>
 
