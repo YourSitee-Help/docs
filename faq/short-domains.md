@@ -2,7 +2,7 @@
 
 Written by: <img src="../.gitbook/assets/contributors/robskan (2).png" alt="" data-size="line"> [Robbie](../about/contributors.md#robskan)
 
-YourSitee has several short domains which are alternatives to the default website, yoursit.ee. If you don't like the main website, there will be a second option, but will still show your page.
+YourSitee has several short domains which are alternatives to the default website, yoursit.ee. I have listed all the official and unofficial short links known to me below.&#x20;
 
 ## Official links
 
@@ -12,7 +12,7 @@ These links are managed and operated by YourSitee. All data collected (if any) f
 
 ## Unofficial links
 
-These links are not managed or operated by YourSitee, meaning that all collected data (if any) does **not** fall under YourSitee's privacy policy.&#x20;
+These links are **not** managed or operated by YourSitee, meaning that data collection (if any) does **not** fall under YourSitee's privacy policy. Please contact the site owner for more information.
 
 <table><thead><tr><th>Domain</th><th data-type="checkbox">Supports subdomain¹?</th><th data-type="checkbox">Supports URL²?</th></tr></thead><tbody><tr><td>is-on.top</td><td>true</td><td>false</td></tr></tbody></table>
 
@@ -22,14 +22,12 @@ Got a domain that redirects to YourSitee? Please contact us via our Discord serv
 
 
 
-¹ Subdomain: `username.domain.tld` (eg. rob.yrs.bio)\
-² URL: `domain.tld/username` (eg. yrs.bio/rob)
+¹ Subdomain: `username.domain.tld`\
+² URL: `domain.tld/username`
 
 ## How do they work?
 
-Let's take my username (@rob) and the short domain `yrs.lol` as an example.
+Let's take my username (`@rob`) and the short domain `yrs.lol` as an example.
 
 * If you visit `rob.yrs.lol`, you will be redirected to `yoursit.ee/rob`.
 * If you visit `yrs.lol/rob`, you will also be redirected to `yoursit.ee/rob`.
-
-Repeat that with all available short domains and that's how they work! There's no setup or such needed.
