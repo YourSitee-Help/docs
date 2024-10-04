@@ -32,4 +32,4 @@ If you're having any of the problems mentioned above, make sure to reach out to 
 You may join YourSitee's Discord server at [https://discord.gg/BZt6Kyr573](https://discord.gg/BZt6Kyr573).
 {% endhint %}
 
-If you've submitted a ticket to YourSitee's support, please be patient as they assist you. For any updates or questions, add them directly to your ticket thread for easy tracking.
+If you've submitted a ticket to YourSitee's support, please be patient as they assist you. Please do not contact us, as your inquiry is already being handled. Thank you for your understanding.
