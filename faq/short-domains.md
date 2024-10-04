@@ -4,12 +4,22 @@ Written by: <img src="../.gitbook/assets/contributors/robskan (2).png" alt="" da
 
 YourSitee has several short domains which are alternatives to the default website, yoursit.ee. If you don't like the main website, there will be a second option, but will still show your page.
 
-## Shorter links
+## Official links
 
-<table><thead><tr><th>Domain</th><th data-type="checkbox">Supports subdomain (1)?</th><th data-type="checkbox">Supports URL(2)?</th></tr></thead><tbody><tr><td>yoursit.ee</td><td>false</td><td>true</td></tr><tr><td>ysit.ee</td><td>true</td><td>true</td></tr><tr><td>yrs.bio</td><td>true</td><td>true</td></tr><tr><td>yrs.lol</td><td>true</td><td>true</td></tr><tr><td>yrs.wtf</td><td>true</td><td>true</td></tr></tbody></table>
+<table><thead><tr><th>Domain</th><th data-type="checkbox">Supports subdomain¹?</th><th data-type="checkbox">Supports URL²?</th></tr></thead><tbody><tr><td>yoursit.ee</td><td>false</td><td>true</td></tr><tr><td>ysit.ee</td><td>true</td><td>true</td></tr><tr><td>yrs.bio</td><td>true</td><td>true</td></tr><tr><td>yrs.lol</td><td>true</td><td>true</td></tr><tr><td>yrs.wtf</td><td>true</td><td>true</td></tr></tbody></table>
 
-(1)Subdomain: `username.domain.tld` (eg. rob.yrs.bio)\
-(2)URL: `domain.tld/username` (eg. yrs.bio/rob)
+## Unofficial links
+
+<table><thead><tr><th>Domain</th><th data-type="checkbox">Supports subdomain¹?</th><th data-type="checkbox">Supports URL²?</th></tr></thead><tbody><tr><td>is-on.top</td><td>true</td><td>false</td></tr></tbody></table>
+
+{% hint style="info" %}
+Got a domain that redirects to YourSitee? Please contact us via our Discord server: [https/discord.gg/SCWedJUCVC](discord://https/discord.gg/SCWedJUCVC).
+{% endhint %}
+
+
+
+¹ Subdomain: `username.domain.tld` (eg. rob.yrs.bio)\
+² URL: `domain.tld/username` (eg. yrs.bio/rob)
 
 ## How do they work?
 
