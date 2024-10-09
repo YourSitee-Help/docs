@@ -2,12 +2,8 @@
 
 Written by: <img src="../.gitbook/assets/contributors/robskan (2).png" alt="" data-size="line"> [Robbie](../about/contributors.md#robskan)
 
-{% hint style="danger" %}
-**WARNING!** You can only update your username every 12 months.
-{% endhint %}
-
 {% hint style="info" %}
-When you change your username, it also updates your profile link. So, if you switch your username from hello to world, your link will change from yoursit.ee/hello to yoursit.ee/world.
+Learn more about usernames [here](../faq/in-short/usernames.md).
 {% endhint %}
 
 ## 1: Edit mode
