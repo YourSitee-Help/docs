@@ -3,7 +3,7 @@
 Written by: <img src="../.gitbook/assets/contributors/robskan (2).png" alt="" data-size="line"> [Robbie](../about/contributors.md#robskan)
 
 {% hint style="info" %}
-Learn more about usernames [here](../faq/in-short/usernames.md).
+Learn more about usernames [here](../faq/in-short/profile-card/names.md).
 {% endhint %}
 
 ## 1: Edit mode

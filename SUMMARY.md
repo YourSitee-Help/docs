@@ -12,7 +12,11 @@
 ## faq
 
 * [In short](faq/in-short/README.md)
-  * [Usernames](faq/in-short/usernames.md)
+  * [Profile card](faq/in-short/profile-card/README.md)
+    * [Names](faq/in-short/profile-card/names.md)
+    * [Profile fields](faq/in-short/profile-card/profile-fields.md)
+    * [Link blocks](faq/in-short/profile-card/link-blocks.md)
+    * [UID](faq/in-short/profile-card/uid.md)
 * [All profile badges](faq/all-profile-badges/README.md)
   * [YourSitee Staff](faq/all-profile-badges/yoursitee-staff.md)
   * [Verified](faq/all-profile-badges/verified.md)
