@@ -11,8 +11,8 @@
 
 ## faq
 
-* [FAQ](faq/faq/README.md)
-  * [Usernames](faq/faq/usernames.md)
+* [In short](faq/in-short/README.md)
+  * [Usernames](faq/in-short/usernames.md)
 * [All profile badges](faq/all-profile-badges/README.md)
   * [YourSitee Staff](faq/all-profile-badges/yoursitee-staff.md)
   * [Verified](faq/all-profile-badges/verified.md)
