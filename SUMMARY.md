@@ -38,7 +38,7 @@
 ## Articles
 
 * [Moderator Crew Program](articles/moderator-program.md)
-* [Moderator Crew Program](articles/moderator-program-1.md)
+* [Moderator Crew Program](articles/moderator-program-old.md)
 * [Discord Server Introduction](articles/discord-server-introduction.md)
 * [YourSitee's legal stuff in short](articles/yoursitees-legal-stuff-in-short/README.md)
   * [Terms of Service in short](articles/yoursitees-legal-stuff-in-short/terms-of-service-in-short.md)
