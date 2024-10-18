@@ -1,6 +1,6 @@
 # Verified
 
-<img src="../../.gitbook/assets/faq/all-profile-badges/verified.png" alt=":verified:" data-size="line"> Verified Person
+## <img src="../../.gitbook/assets/faq/all-profile-badges/verified.png" alt=":verified:" data-size="line"> Verified Person
 
 The Verified badge is used to distinguish accounts from one another, mainly to prevent impersonation.
 
