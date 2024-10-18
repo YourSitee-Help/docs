@@ -43,6 +43,10 @@
 * [YourSitee's legal stuff in short](articles/yoursitees-legal-stuff-in-short/README.md)
   * [Terms of Service in short](articles/yoursitees-legal-stuff-in-short/terms-of-service-in-short.md)
 
+## More
+
+* [YourSitee Timeline](more/timeline.md)
+
 ## Connect with us
 
 * [YourSitee Help FAQ](connect-with-us/yoursitee-help-faq.md)
@@ -62,7 +66,3 @@
   * [Alpha & Beta information](page-archive/alpha-and-beta-information.md)
   * [How do I get my own page?](page-archive/own-page.md)
   * [BIG NEWS!](page-archive/big-news.md)
-
-## More
-
-* [Timeline](more/timeline.md)
