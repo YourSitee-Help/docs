@@ -1,15 +1,13 @@
 # Verified
 
-## Verified Person
+<img src="../../.gitbook/assets/faq/all-profile-badges/verified.png" alt=":verified:" data-size="line"> Verified Person
 
 The Verified badge is used to distinguish accounts from one another, mainly to prevent impersonation.
 
-<figure><img src="../../.gitbook/assets/Verified.png" alt="" width="375"><figcaption></figcaption></figure>
+## <img src="../../.gitbook/assets/faq/all-profile-badges/verifiedOrg.png" alt="" data-size="line"> Verified Organization
 
-## Verified Organization
+Given to verified organizations.
 
-No information to display.
+## <img src="../../.gitbook/assets/faq/all-profile-badges/governmentOfficial.png" alt="" data-size="line"> Government Official
 
-## Government Official
-
-No information to display.
+Given to government official accounts, such as public safety services, law enforcement, and parliamentary institutional accounts. Examples of eligible individuals may include heads of state (presidents, monarchs, prime ministers), etc.

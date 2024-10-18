@@ -62,3 +62,7 @@
   * [Alpha & Beta information](page-archive/alpha-and-beta-information.md)
   * [How do I get my own page?](page-archive/own-page.md)
   * [BIG NEWS!](page-archive/big-news.md)
+
+## More
+
+* [Timeline](more/timeline.md)

@@ -1,5 +1,5 @@
 # YourSitee Staff
 
-This badge is for YourSitee Staff members only.
+## <img src="../../.gitbook/assets/faq/all-profile-badges/yoursiteeStaff.png" alt=":staff:" data-size="line"> YourSitee Staff
 
-<figure><img src="../../.gitbook/assets/YourSitee Staff.png" alt="" width="375"><figcaption></figcaption></figure>
+This badge is given to accounts owned by YourSitee staff members.
