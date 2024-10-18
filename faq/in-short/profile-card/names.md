@@ -24,3 +24,8 @@ Usernames must be 0-32 characters in length and may only contain numbers (0-9), 
 * Usernames can include names of famous people, brands, or any known word. However, the username must be changed if the name is a trademark or personal claim of a famous person, brand, company, or other organization,
 * YourSitee may change your username without notice,
 * The display name may contain any character.
+
+{% hint style="info" %}
+Source: [Community Standards, part 17: Username](https://yoursit.ee/community-standards).
+{% endhint %}
+
