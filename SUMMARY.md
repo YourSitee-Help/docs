@@ -46,12 +46,7 @@
 ## More
 
 * [YourSitee Timeline](more/timeline.md)
-
-## Connect with us
-
-* [YourSitee Help FAQ](connect-with-us/yoursitee-help-faq.md)
-* [X/Twitter](https://twitter.com/intent/post?text=%40YourSiteeHelp)
-* [Discord server](discord://https/discord.gg/SCWedJUCVC)
+* [Connect with us](more/connect-with-us.md)
 
 ***
 
@@ -66,3 +61,4 @@
   * [Alpha & Beta information](page-archive/alpha-and-beta-information.md)
   * [How do I get my own page?](page-archive/own-page.md)
   * [BIG NEWS!](page-archive/big-news.md)
+* [Disclaimer](disclaimer.md)
