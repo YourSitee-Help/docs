@@ -10,4 +10,5 @@ Given to verified organizations.
 
 ## <img src="../../.gitbook/assets/faq/all-profile-badges/governmentOfficial.png" alt="" data-size="line"> Government Official
 
-Given to government official accounts, such as public safety services, law enforcement, and parliamentary institutional accounts. Examples of eligible individuals may include heads of state (presidents, monarchs, prime ministers), etc.
+Given to people who are active in politics, such as an opposition party member, a party leader, or even a political journalist. 
+YourSitee does not have concrete rules, but this is the idea for the future.
