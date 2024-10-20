@@ -1,6 +1,6 @@
 # Short Domains
 
-Written by: <img src="../.gitbook/assets/contributors/robskan (2).png" alt="" data-size="line"> [Robbie](../about/contributors.md#robskan)
+Written by: <img src="../.gitbook/assets/contributors/robskan (2).png" alt="" data-size="line"> [Robbie](../contributors.md#robskan)
 
 YourSitee has several short domains which are alternatives to the default website, yoursit.ee. I have listed all the official and unofficial short links known to me below.&#x20;
 

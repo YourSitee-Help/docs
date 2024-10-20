@@ -1,6 +1,6 @@
 # Changing your username
 
-Written by: <img src="../.gitbook/assets/contributors/robskan (2).png" alt="" data-size="line"> [Robbie](../about/contributors.md#robskan)
+Written by: <img src="../.gitbook/assets/contributors/robskan (2).png" alt="" data-size="line"> [Robbie](../contributors.md#robskan)
 
 {% hint style="info" %}
 Learn more about usernames [here](../faq/in-short/profile-card/names.md).

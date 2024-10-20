@@ -3,7 +3,10 @@
 ## About
 
 * [Welcome](README.md)
-* [Contributors](about/contributors.md)
+
+***
+
+* [Contributors](contributors.md)
 
 ## Pinned <a href="#pinboard" id="pinboard"></a>
 
