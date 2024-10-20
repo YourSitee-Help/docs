@@ -34,7 +34,7 @@
   * [Bug Hunter](faq/all-profile-badges/bug-hunter.md)
   * [Early Supporter](faq/all-profile-badges/early-supporter.md)
   * [Soft-Launch](faq/all-profile-badges/soft-launch.md)
-* [Short Domains](faq/short-domains.md)
+* [Short domains](faq/short-domains.md)
 
 ## Guides
 
