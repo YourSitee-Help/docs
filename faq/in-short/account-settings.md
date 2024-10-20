@@ -18,7 +18,7 @@ Here, you can connect your YourSitee profile to your Discord profile.
 
 ## ✅ Verified profile
 
-This section will allow you to request profile [verification](../../page-archive/profile-badges-101/verified.md). It also says if you're already verified or not.
+This section will allow you to request profile [verification](broken-reference). It also says if you're already verified or not.
 
 ## 🔧 Manage account
 

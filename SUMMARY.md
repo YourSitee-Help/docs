@@ -47,8 +47,6 @@
 * [Moderator crew program](articles/moderator-crew-program.md)
 * [Moderator crew program](articles/moderator-program-old.md)
 * [Discord server introduction](articles/discord-server-introduction.md)
-* [YourSitee's legal stuff in short](articles/yoursitees-legal-stuff-in-short/README.md)
-  * [Terms of Service in short](articles/yoursitees-legal-stuff-in-short/terms-of-service-in-short.md)
 
 ## More
 
@@ -58,15 +56,4 @@
 
 * [YourSitee timeline](timeline.md)
 * [Connect with us](connect.md)
-* [Page archive](page-archive/README.md)
-  * [Profile Badges 101](page-archive/profile-badges-101/README.md)
-    * [YourSitee Staff](page-archive/profile-badges-101/yoursitee-staff.md)
-    * [Verified](page-archive/profile-badges-101/verified.md)
-    * [Bug Hunter](page-archive/profile-badges-101/bug-hunter.md)
-    * [Early Supporter](page-archive/profile-badges-101/early-supporter.md)
-    * [Soft-Launch](page-archive/profile-badges-101/soft-launch.md)
-    * [Beta Function](page-archive/profile-badges-101/beta-function.md)
-  * [Alpha & Beta information](page-archive/alpha-and-beta-information.md)
-  * [How do I get my own page?](page-archive/own-page.md)
-  * [BIG NEWS!](page-archive/big-news.md)
 * [Disclaimer](disclaimer.md)
