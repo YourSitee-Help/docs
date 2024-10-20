@@ -1,6 +1,10 @@
-# Disclaimer
+---
+description: >-
+  This disclaimer page was created to inform users about our project. Please
+  read through it carefully. By using our website, you agree to have read this.
+---
 
-**This disclaimer page was created to inform users about our project. Please read through it carefully. By using our website, you agree to have read this.**
+# Disclaimer
 
 YourSiteeHelp is an unofficial, community-driven project created to assist the users of YourSitee. The project is not affiliated with or endorsed by the official YourSitee website or its team. Some pages may be written and posted by YourSitee staff members. We are not responsible for the content of those pages, and we guarantee our contributors or team have made no modifications to them.
 
