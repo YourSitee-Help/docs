@@ -11,7 +11,10 @@
 ## Pinned <a href="#pinboard" id="pinboard"></a>
 
 * [----------------------------](pinboard/undefined.md)
-* [Goodbye alpha, welcome beta!](pinboard/beta.md)
+
+***
+
+* [Goodbye alpha, welcome beta!](beta.md)
 
 ## faq
 
