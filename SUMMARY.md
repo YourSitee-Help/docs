@@ -10,7 +10,7 @@
 
 ## Pinned <a href="#pinboard" id="pinboard"></a>
 
-* [----------------------------](pinboard/undefined.md)
+* [404 — Page not found](pinboard/404.md)
 
 ***
 
@@ -50,7 +50,7 @@
 
 ## More
 
-* [----------------------------](more/undefined.md)
+* [404 — Page not found](more/404-page-not-found.md)
 
 ***
 
