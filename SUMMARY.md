@@ -48,11 +48,12 @@
 
 ## More
 
-* [YourSitee Timeline](more/timeline.md)
-* [Connect with us](more/connect-with-us.md)
+* [----------------------------](more/undefined.md)
 
 ***
 
+* [YourSitee Timeline](timeline.md)
+* [Connect with us](connect.md)
 * [Page archive](page-archive/README.md)
   * [Profile Badges 101](page-archive/profile-badges-101/README.md)
     * [YourSitee Staff](page-archive/profile-badges-101/yoursitee-staff.md)

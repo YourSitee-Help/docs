@@ -1,6 +1,13 @@
 # Connect with us
 
-Written by: <img src="../.gitbook/assets/contributors/robskan (2).png" alt="" data-size="line"> [Robbie](../contributors.md#robskan)
+Written by: <img src=".gitbook/assets/contributors/robskan (2).png" alt="" data-size="line"> [Robbie](contributors.md#robskan)
+
+## Social media
+
+You can find us on the following platforms. Any other accounts claiming to be us are malicious. Do not trust them.
+
+* X/Twitter: [https://twitter.com/@YourSiteeHelp](https://twitter.com/@YourSiteeHelp)
+* Discord: [https://discord.gg/Wv2xEyF5BK](https://discord.gg/Wv2xEyF5BK)
 
 ## @YourSiteeHelp on Twitter
 
@@ -35,10 +42,3 @@ You can join YourSitee's Discord server at [https://discord.gg/BZt6Kyr573](https
 {% endhint %}
 
 If you've submitted a ticket to YourSitee's support, please be patient as they assist you. Please do not contact us, as your inquiry is already being handled. Thank you for your understanding.
-
-## Social media
-
-You can find us on the following platforms. Any other accounts claiming to be us are malicious. Do not trust them.
-
-* X/Twitter: [https://twitter.com/@YourSiteeHelp](https://twitter.com/@YourSiteeHelp)
-* Discord: [https://discord.gg/Wv2xEyF5BK](https://discord.gg/Wv2xEyF5BK)
