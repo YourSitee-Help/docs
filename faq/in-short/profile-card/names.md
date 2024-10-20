@@ -17,7 +17,7 @@ Usernames must be 0-32 characters in length and may only contain numbers (0-9), 
 * You can only change your username once every **12 months**,
 * Usernames are not case-sensitive,
 * Your username is connected to your profile URL. That means that the username @rob will take the URL www.yoursit.ee/rob,
-* Learn more about changing your username [here](../../../guides/changing-username.md).
+* Learn more about changing your username [here](../../../guides/changing-your-username.md).
 
 ### 📝 Username policy
 

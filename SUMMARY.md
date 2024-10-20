@@ -38,15 +38,15 @@
 
 ## Guides
 
-* [Changing your username](guides/changing-username.md)
-* [Discord profile connection](guides/discord-connection.md)
-* [Changing Profile Images](guides/profile-images.md)
+* [Changing your username](guides/changing-your-username.md)
+* [Discord profile connection](guides/discord-profile-connection.md)
+* [Changing profile images](guides/changing-profile-images.md)
 
 ## Articles
 
-* [Moderator Crew Program](articles/moderator-program.md)
-* [Moderator Crew Program](articles/moderator-program-old.md)
-* [Discord Server Introduction](articles/discord-server-introduction.md)
+* [Moderator crew program](articles/moderator-crew-program.md)
+* [Moderator crew program](articles/moderator-program-old.md)
+* [Discord server introduction](articles/discord-server-introduction.md)
 * [YourSitee's legal stuff in short](articles/yoursitees-legal-stuff-in-short/README.md)
   * [Terms of Service in short](articles/yoursitees-legal-stuff-in-short/terms-of-service-in-short.md)
 
@@ -56,7 +56,7 @@
 
 ***
 
-* [YourSitee Timeline](timeline.md)
+* [YourSitee timeline](timeline.md)
 * [Connect with us](connect.md)
 * [Page archive](page-archive/README.md)
   * [Profile Badges 101](page-archive/profile-badges-101/README.md)
