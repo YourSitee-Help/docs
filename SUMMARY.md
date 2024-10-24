@@ -45,7 +45,7 @@
 ## Articles
 
 * [Moderator crew program](articles/moderator-crew-program.md)
-* [Moderator crew program](articles/archived-mcp.md)
+* [Moderator crew program](articles/moderator-program-old.md)
 * [Discord server introduction](articles/discord-server-introduction.md)
 
 ## More

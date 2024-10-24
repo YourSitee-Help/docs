@@ -1,8 +1,8 @@
-# Discord Server Introduction
+# Discord server introduction
 
 Written by: <img src="../.gitbook/assets/contributors/robskan (2).png" alt="" data-size="line"> [Robbie](../contributors.md#robskan)
 
-## Welcome to the YourSitee community.
+## Welcome to the YourSitee community
 
 In this article, I’m going to tell you all about the Discord server and provide a brief yet informative overview. If you have any questions, feel free to reach out to us on X/Twitter at [@YourSiteeHelp](https://twitter.com/@YourSiteeHelp).
 

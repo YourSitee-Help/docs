@@ -2,7 +2,7 @@
 hidden: true
 ---
 
-# Moderator Crew Program
+# Moderator crew program
 
 Written by: <img src="../.gitbook/assets/contributors/satoko (3).png" alt="" data-size="line">[Satoko](../contributors.md#satoko) <img src="../.gitbook/assets/badges/yoursiteeStaff (2).png" alt="" data-size="line">
 
