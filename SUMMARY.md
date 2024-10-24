@@ -15,6 +15,7 @@
 ***
 
 * [Goodbye alpha, welcome beta!](beta.md)
+* [We got our own page!](we-got-our-own-page.md)
 
 ## faq
 
