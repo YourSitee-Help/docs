@@ -17,7 +17,7 @@ As YourSitee didn't provide us with one, here is a list of new features:
 
 #### Profile stuff
 
-* The badges were refreshed! Take a look at them at [all-profile-badges](faq/all-profile-badges.md) and
+* The badges were refreshed! Take a look at them at [all-profile-badges](badges.md) and
 * You can now show your birthdate on your profile.
 
 #### New social links

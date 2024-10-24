@@ -24,8 +24,11 @@
   * [Widgets](faq/in-short/widgets.md)
   * [Customization](faq/in-short/customization.md)
   * [Account settings](faq/in-short/account-settings.md)
-* [All profile badges](faq/all-profile-badges.md)
 * [Short domains](faq/short-domains.md)
+
+***
+
+* [All profile badges](badges.md)
 
 ## Guides
 
