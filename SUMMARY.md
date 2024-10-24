@@ -23,13 +23,7 @@
   * [Widgets](faq/in-short/widgets.md)
   * [Customization](faq/in-short/customization.md)
   * [Account settings](faq/in-short/account-settings.md)
-* [All profile badges](faq/all-profile-badges/README.md)
-  * [YourSitee Staff](faq/all-profile-badges/yoursitee-staff.md)
-  * [Verified](faq/all-profile-badges/verified.md)
-  * [Premium](faq/all-profile-badges/premium.md)
-  * [Bug Hunter](faq/all-profile-badges/bug-hunter.md)
-  * [Early Supporter](faq/all-profile-badges/early-supporter.md)
-  * [Soft-Launch](faq/all-profile-badges/soft-launch.md)
+* [All profile badges](faq/all-profile-badges.md)
 * [Short domains](faq/short-domains.md)
 
 ## Guides
