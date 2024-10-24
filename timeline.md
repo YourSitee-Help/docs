@@ -1,6 +1,10 @@
-# YourSitee Timeline
+---
+description: >-
+  Are you curious about when what happened with YourSitee? Here's a full list of
+  dates and what happened with a short description.
+---
 
-Are you curious about when what happened with YourSitee? Here's a full list of dates and what happened with a short description.
+# YourSitee timeline
 
 ## Alpha Release — Sunday, December 24, 2023
 
