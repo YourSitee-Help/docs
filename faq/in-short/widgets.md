@@ -10,21 +10,21 @@ Widgets are blocks that lead to another platform. Some social widgets have a pre
 
 YourSitee has set a maximum length of all widget titles and fields.&#x20;
 
-| Widget               | Character limit    |
-| -------------------- | ------------------ |
-| Rich Text (markdown) | 1,000              |
-| External Link        | Title 32, link 250 |
-| Title                | 125                |
-| YouTube video        | 250                |
-| Twitter tweet/X post | 250                |
-| Twitch live stream   | 250                |
-| Instagram post       | 250                |
-| Pinterest pin        | 250                |
-| SoundCloud track     | 250                |
-| Spotify track        | 250                |
-| Spotify album        | 250                |
-| Spotify playlist     | 250                |
-| Spotify artist       | 250                |
+| Widget                                                | Character limit    |
+| ----------------------------------------------------- | ------------------ |
+| [Rich Text (markdown)](widgets.md#rich-text-markdown) | 1,000              |
+| External Link                                         | Title 32, link 250 |
+| Title                                                 | 125                |
+| YouTube video                                         | 250                |
+| Twitter tweet/X post                                  | 250                |
+| Twitch live stream                                    | 250                |
+| Instagram post                                        | 250                |
+| Pinterest pin                                         | 250                |
+| SoundCloud track                                      | 250                |
+| Spotify track                                         | 250                |
+| Spotify album                                         | 250                |
+| Spotify playlist                                      | 250                |
+| Spotify artist                                        | 250                |
 
 ## Rich text (markdown)
 
