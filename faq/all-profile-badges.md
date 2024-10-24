@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: false
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # All profile badges
 
 Ever wondered what these badges on your friend's profile were or how you can obtain them? I've listed every badge ( that's known to me) in this article.
@@ -46,4 +60,4 @@ This badge is given to users who signed up for the waitlist and got in before th
 
 ## Contributors
 
-[Robskan](../contributors.md#robskan), [Satoko ](../contributors.md#satoko)[<img src="../.gitbook/assets/badges/yoursiteeStaff (2).png" alt="" data-size="line">](all-profile-badges.md#yoursitee-staff)
+[Robskan](../contributors.md#robskan), [Satoko](../contributors.md#satoko) [<img src="../.gitbook/assets/badges/yoursiteeStaff (2).png" alt="" data-size="line">](all-profile-badges.md#yoursitee-staff)
