@@ -22,7 +22,7 @@ Allow anyone to embed your YourSitee profile on their websites.
 
 ## Verified profile
 
-This section will allow you to request profile [verification](broken-reference). It also says if you're already verified or not.
+This section will allow you to request profile [verification](../all-profile-badges.md#verified-person). It also says if you're already verified or not.
 
 ## Manage account
 
