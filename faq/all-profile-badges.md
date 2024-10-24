@@ -1,7 +1,5 @@
 # All profile badges
 
-Written by: <img src="../.gitbook/assets/contributors/robskan (2).png" alt="" data-size="line"> [Robbie](../contributors.md#robskan)
-
 Ever wondered what these badges on your friend's profile were or how you can obtain them? I've listed every badge ( that's known to me) in this article.
 
 {% hint style="info" %}
@@ -30,13 +28,13 @@ Given to people who are active in politics, such as an opposition party member, 
 
 This badge is given to users who are subscribed to YourSitee's paid plan. This is currently in-the-make and not available.
 
-## <img src="../.gitbook/assets/faq/all-profile-badges/bugHunterPlus.png" alt="" data-size="line"> Bug Hunter Plus
-
-This badge is given to users who have collected 3000 Bug XP or more.
-
 ## <img src="../.gitbook/assets/faq/all-profile-badges/bugHunter.png" alt="" data-size="line"> Bug Hunter
 
 This badge is given as a reward for users who have collected at least 1000 Bug XP.
+
+## <img src="../.gitbook/assets/faq/all-profile-badges/bugHunterPlus.png" alt="" data-size="line"> Bug Hunter Plus
+
+This badge is given to users who have collected 3000 Bug XP or more.
 
 ## <img src="../.gitbook/assets/faq/all-profile-badges/earlySupporter.png" alt="" data-size="line"> Early Supporter
 
@@ -45,3 +43,7 @@ This badge is given to users who have financially supported YourSitee in the ear
 ## <img src="../.gitbook/assets/faq/all-profile-badges/softLaunch.png" alt="" data-size="line"> Soft-Launch
 
 This badge is given to users who signed up for the waitlist and got in before the beta phase started. This badge is no longer obtainable.
+
+## Contributors
+
+[Robskan](../contributors.md#robskan), [Satoko ](../contributors.md#satoko)[<img src="../.gitbook/assets/badges/yoursiteeStaff (2).png" alt="" data-size="line">](all-profile-badges.md#yoursitee-staff)
