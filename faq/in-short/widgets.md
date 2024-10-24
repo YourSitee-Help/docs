@@ -6,6 +6,10 @@ icon: grid-2
 
 Widgets are blocks that lead to another platform. Some social widgets have a preview of the content, which you can configure through the widget settings.
 
+## Widget character limits
+
+YourSitee has set a maximum length of all widget titles and fields.&#x20;
+
 | Widget               | Character limit    |
 | -------------------- | ------------------ |
 | Rich Text (markdown) | 1,000              |
