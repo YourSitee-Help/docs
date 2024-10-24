@@ -1,6 +1,4 @@
-# Changing Profile Images
-
-Written by: [<img src="../.gitbook/assets/contributors/balazsmanus.png" alt="" data-size="line"> BalazsManus](../contributors.md#balazsmanus)
+# Changing profile images
 
 {% hint style="info" %}
 The profile pictures should be smaller than 8MiB in size.
@@ -51,3 +49,7 @@ The 3.55:1 ratio isn't used for profile pictures. Instead, they have a 1:1 ratio
 
 <img src="../.gitbook/assets/guides/profile-images/pfp.png" alt="" data-size="original">
 {% endhint %}
+
+## Contributors
+
+[BalazsManus](../contributors.md#balazsmanus)

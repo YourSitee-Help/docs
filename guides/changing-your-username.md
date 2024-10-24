@@ -1,9 +1,7 @@
 # Changing your username
 
-Written by: <img src="../.gitbook/assets/contributors/robskan (2).png" alt="" data-size="line"> [Robbie](../contributors.md#robskan)
-
 {% hint style="info" %}
-Learn more about usernames [here](../faq/in-short/profile-card/names.md).
+Learn more about usernames [here](broken-reference).
 {% endhint %}
 
 ## 1: Edit mode
@@ -16,6 +14,8 @@ When in edit mode, click anywhere on the widget that contains your profile icon,
 
 <figure><img src="../.gitbook/assets/chrome_CASRbiBAb0.png" alt=""><figcaption></figcaption></figure>
 
-Type the new username you would like to use and save your changes.
+Type the new username you would like to use and save your changes. Done! Your new username is now in use!
 
-Done! Your new username is now in use!
+## Contributors
+
+[Robskan](../contributors.md#robskan)

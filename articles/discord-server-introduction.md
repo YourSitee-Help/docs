@@ -1,7 +1,5 @@
 # Discord server introduction
 
-Written by: <img src="../.gitbook/assets/contributors/robskan (2).png" alt="" data-size="line"> [Robbie](../contributors.md#robskan)
-
 ## Welcome to the YourSitee community
 
 In this article, I’m going to tell you all about the Discord server and provide a brief yet informative overview. If you have any questions, feel free to reach out to us on X/Twitter at [@YourSiteeHelp](https://twitter.com/@YourSiteeHelp).
@@ -31,3 +29,7 @@ In this article, I’m going to tell you all about the Discord server and provid
 * 💬Voice Lounge: This is the place where people can chat with each other in voice. It doesn't get used very often, but if you want to chill and talk, there's definitely space for that!
 
 You did it! You've gone through the list of channels. This isn't all the channels on the server, but these are the ones everyone can see. We can't share any other details that aren't available to the public for obvious reasons.
+
+## Contributors
+
+[Robskan](../contributors.md#robskan)

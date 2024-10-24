@@ -4,7 +4,9 @@ hidden: true
 
 # Moderator crew program
 
-Written by: <img src="../.gitbook/assets/contributors/satoko (3).png" alt="" data-size="line">[Satoko](../contributors.md#satoko) <img src="../.gitbook/assets/badges/yoursiteeStaff (2).png" alt="" data-size="line">
+{% hint style="success" %}
+This article was written by a YourSitee staff member. To ensure reliability, no YourSiteeHelp team members or contributors have made changes to this page.
+{% endhint %}
 
 {% hint style="danger" %}
 We are not currently looking for new moderators. Check back later!
@@ -67,3 +69,7 @@ YourSitee Mod Application
 {% endembed %}
 
 _Please note that we reserve the right to make changes at any time. In special situations, some moderators and/or staff members may act in a way that deviates from the codex, and in such cases, the server administration team will not be held responsible. This document only stands for information._
+
+## Contributors
+
+[Satoko ](../contributors.md#satoko)<img src="../.gitbook/assets/badges/yoursiteeStaff (2).png" alt="" data-size="line">

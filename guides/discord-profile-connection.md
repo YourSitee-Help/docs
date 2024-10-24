@@ -1,7 +1,5 @@
 # Discord profile connection
 
-Written by: <img src="../.gitbook/assets/contributors/robskan (2).png" alt="" data-size="line"> [Robbie](../contributors.md#robskan)
-
 While sharing your YourSitee link in your Discord bio is completely fine, you can also share it in a modern way: Discord connections. Connections are those funny links at the bottom of someone's profile linking to other services, such as YouTube, Reddit, and Twitch.
 
 Before we begin, make sure you have access to both a YourSitee and Discord account.
@@ -37,3 +35,7 @@ Done! The domain is now shown on your Discord user profile.
 Here's an example result of a profile connection added to your profile.
 
 <figure><img src="../.gitbook/assets/Preview - Website Connection.png" alt="" width="563"><figcaption></figcaption></figure>
+
+## Contributors
+
+[Robskan](../contributors.md#robskan)
