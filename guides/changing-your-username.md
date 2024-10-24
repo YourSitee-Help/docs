@@ -1,7 +1,7 @@
 # Changing your username
 
 {% hint style="info" %}
-Learn more about usernames [here](broken-reference).
+Learn more about usernames [here](changing-your-username.md).
 {% endhint %}
 
 ## 1: Edit mode

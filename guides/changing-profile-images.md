@@ -8,7 +8,7 @@ The profile pictures should be smaller than 8MiB in size.
 
 ### 1: Customization button
 
-You may want to go to your YourSitee page and press the "Customization" <img src="../.gitbook/assets/buttons/customization.png" alt="" data-size="line"> button on the bottom navbar.\
+You may want to go to your YourSitee page and press the <img src="../.gitbook/assets/buttons/customization.png" alt="" data-size="line"> "Customization" button on the bottom navbar.\
 After that select 'Upload image'.
 
 ### Finding the perfect size
@@ -52,4 +52,4 @@ The 3.55:1 ratio isn't used for profile pictures. Instead, they have a 1:1 ratio
 
 ## Contributors
 
-[BalazsManus](../contributors.md#balazsmanus)
+[BalazsManus](../contributors.md#balazsmanus), [Robskan](../contributors.md#robskan)
