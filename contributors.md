@@ -24,7 +24,7 @@ Satoko is the community manager of YourSitee.
 
 I'm a backend dev
 
-<img src="../.gitbook/assets/socials/yoursitee.png" alt="" data-size="line"> [@BalazsManus](https://yoursit.ee/balazsmanus) | <img src="../.gitbook/assets/socials/discord.jpg" alt="" data-size="line"> [@balazsmanus](https://discord.com/users/710839743222513715)
+<img src="../.gitbook/assets/socials/yoursitee.png" alt="" data-size="line"> [@BalazsManus](https://yoursit.ee/mnus) | <img src="../.gitbook/assets/socials/discord.jpg" alt="" data-size="line"> [@balazsmanus](https://discord.com/users/710839743222513715)
 
 ### <img src="../.gitbook/assets/0d3c62a37f3fd4f29105ddfe30c71c9c-modified.png" alt="" data-size="line"> Kx1
 
