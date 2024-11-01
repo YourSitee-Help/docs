@@ -18,7 +18,7 @@ When w4sb0y found out about this project, he sent me a direct message asking if 
 
 Satoko is the community manager of YourSitee.
 
-<img src=".gitbook/assets/socials/yoursitee.png" alt="" data-size="line"> [@Satoko](https://yoursit.ee/Satoko) | <img src=".gitbook/assets/socials/twitter.png" alt="" data-size="line"> [@Satoko](https://x.com/thesatoko) | <img src=".gitbook/assets/socials/discord.jpg" alt="" data-size="line"> [@thesatoko](https://discord.com/users/491973404434628617)
+<img src=".gitbook/assets/socials/yoursitee.png" alt="" data-size="line"> [@Satoko](https://yoursit.ee/Satoko) | <img src=".gitbook/assets/socials/twitter.png" alt="" data-size="line"> [@thesatoko](https://x.com/thesatoko) | <img src=".gitbook/assets/socials/discord.jpg" alt="" data-size="line"> [@thesatoko](https://discord.com/users/491973404434628617)
 
 ### <img src=".gitbook/assets/contributors/balazsmanus.png" alt="" data-size="line"> BalazsManus
 
