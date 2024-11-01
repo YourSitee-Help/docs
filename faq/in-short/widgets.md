@@ -15,18 +15,18 @@ YourSitee has set a maximum length of all widget titles and fields.&#x20;
 | [Rich Text (markdown)](widgets.md#rich-text-markdown) | 1,000              |
 | External Link                                         | Title 32, link 250 |
 | Title                                                 | 125                |
-| YouTube video                                         | 250                |
-| Twitter tweet/X post                                  | 250                |
-| Twitch live stream                                    | 250                |
-| Instagram post                                        | 250                |
-| Pinterest pin                                         | 250                |
-| SoundCloud track                                      | 250                |
-| Spotify track                                         | 250                |
-| Spotify album                                         | 250                |
-| Spotify playlist                                      | 250                |
-| Spotify artist                                        | 250                |
+| YouTube Video                                         | 250                |
+| Twitter Tweet/X post                                  | 250                |
+| Twitch Live Stream                                    | 250                |
+| Instagram Post                                        | 250                |
+| Pinterest Pin                                         | 250                |
+| SoundCloud Track                                      | 250                |
+| Spotify Track                                         | 250                |
+| Spotify Album                                         | 250                |
+| Spotify Playlist                                      | 250                |
+| Spotify Artist                                        | 250                |
 
-## Rich text (markdown)
+## Rich Text (markdown)
 
 YourSitee's markdown field supports quite a lot of syntaxes. The table below has, as far as we know, all the supported syntaxes in it.
 
@@ -48,4 +48,13 @@ YourSitee's markdown field supports quite a lot of syntaxes. The table below has
 | Strikethrough                              | \~‎‎YourSitee is bad.\~                                                                                | <img src="../../.gitbook/assets/Strikethrough text (1).svg" alt="" data-size="original"> |
 | Emoji                                      | This is so funny! :‎joy:                                                                               | <img src="../../.gitbook/assets/emoji (2).svg" alt="" data-size="original">              |
 | Task lisk (boxes are not clickable)        | <p>[‎ ] Option 1<br>[‎ ] Option 2<br>[‎ ] Option 3</p>                                                 | <img src="../../.gitbook/assets/checklist.svg" alt="" data-size="original">              |
+
+## External Link
+
+YourSitee has an External Link field that works with many types of URLs, making it easy to connect to other websites. You can add links to websites, social media accounts, online shopping pages, and much more.
+
+| Type           | Preview                                                                     |
+| -------------- | --------------------------------------------------------------------------- |
+| Title with URL | <img src="../../.gitbook/assets/image.png" alt="" data-size="original">     |
+| URL only       | <img src="../../.gitbook/assets/image (2).png" alt="" data-size="original"> |
 
