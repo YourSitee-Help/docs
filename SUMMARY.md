@@ -12,11 +12,6 @@
 
 * [404 — Page not found](pinboard/404.md)
 
-***
-
-* [Goodbye alpha, welcome beta!](beta.md)
-* [We got our own page!](we-got-our-own-page.md)
-
 ## faq
 
 * [In short](faq/in-short/README.md)
@@ -41,6 +36,7 @@
 * [Moderator crew program](articles/moderator-crew-program.md)
 * [Moderator crew program](articles/moderator-program-old.md)
 * [Discord server introduction](articles/discord-server-introduction.md)
+* [Everything new in beta](articles/beta.md)
 
 ## More
 
@@ -51,3 +47,7 @@
 * [YourSitee timeline](timeline.md)
 * [Connect with us](connect.md)
 * [Disclaimer](disclaimer.md)
+
+## Page archive
+
+* [We got our own page!](page-archive/we-got-our-own-page.md)

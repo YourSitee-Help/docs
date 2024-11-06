@@ -1,4 +1,4 @@
-# Goodbye alpha, welcome beta!
+# Everything new in beta
 
 As of Saturday 28 September 8:00 PM CEST, YourSitee is in beta. This means that you still have to sign up for the waitlist, but you can also redeem an invite from someone if they sent you the code. 👀
 
@@ -17,7 +17,7 @@ As YourSitee didn't provide us with one, here is a list of new features:
 
 #### Profile stuff
 
-* The badges were refreshed! Take a look at them at [all-profile-badges](badges.md) and
+* The badges were refreshed! Take a look at them at [all-profile-badges](../badges.md) and
 * You can now show your birthdate on your profile.
 
 #### New social links
@@ -40,4 +40,4 @@ As YourSitee didn't provide us with one, here is a list of new features:
 
 ## Contributors
 
-[Robskan](contributors.md#robskan), [w4sb0y](contributors.md#w4sb0y)
+[Robskan](../contributors.md#robskan), [w4sb0y](../contributors.md#w4sb0y)
