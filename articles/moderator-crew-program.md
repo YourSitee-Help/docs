@@ -17,4 +17,4 @@ Server moderators are volunteer members of the community, who are trusted by You
 
 ## Contributors
 
-[Satoko ](../contributors.md#satoko)<img src="../.gitbook/assets/badges/yoursiteeStaff (2).png" alt="" data-size="line">
+[Satoko ](../contributors.md#satoko)<img src="../.gitbook/assets/YourSitee Staff - NEW (1).svg" alt="" data-size="line">

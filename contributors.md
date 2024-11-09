@@ -14,7 +14,7 @@ When w4sb0y found out about this project, he sent me a direct message asking if 
 
 <img src=".gitbook/assets/socials/yoursitee.png" alt="" data-size="line"> [@w](https://yoursit.ee/w) | <img src=".gitbook/assets/socials/discord.jpg" alt="" data-size="line"> [@w4sb0y](https://discord.com/users/439709934142095360)
 
-### <img src=".gitbook/assets/contributors/satoko (3).png" alt="" data-size="line"> Satoko <img src=".gitbook/assets/badges/yoursiteeStaff (2).png" alt="" data-size="line">
+### <img src=".gitbook/assets/contributors/satoko (3).png" alt="" data-size="line"> Satoko <img src=".gitbook/assets/YourSitee Staff - NEW.svg" alt="" data-size="line">
 
 Satoko is the community manager of YourSitee.
 
