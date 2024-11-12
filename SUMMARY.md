@@ -23,7 +23,7 @@
 
 ***
 
-* [All profile badges](badges.md)
+* [Official badges](badges.md)
 
 ## Guides
 
