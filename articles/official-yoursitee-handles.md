@@ -1,0 +1,11 @@
+# Official YourSitee handles
+
+YourSitee has a few official accounts (@handles) managed and operated by them. They are currently or will be serving a purpose in the future. A complete list can be found below.
+
+<table><thead><tr><th width="73" data-type="checkbox">In use</th><th width="151">Username</th><th>Description</th></tr></thead><tbody><tr><td>false</td><td>@blog</td><td>Sitee where blog posts are made.</td></tr><tr><td>false</td><td>@community</td><td>Sitee where community posts are made.</td></tr><tr><td>false</td><td>@events</td><td>Sitee where community events are announced.</td></tr><tr><td>true</td><td>@leaderboard</td><td>Sitee where the top five Early Supporters are displayed.</td></tr><tr><td>false</td><td>@partners</td><td>Information page for YourSitee's partner program.</td></tr><tr><td>false</td><td>@premium</td><td>Information page for YourSitee's premium plan.</td></tr><tr><td>false</td><td>@safety</td><td>Information page for YourSitee's Trust &#x26; Safety team.</td></tr><tr><td>true</td><td>@system</td><td>Sitee for Bubble, YourSitee's mascot.</td></tr><tr><td>true</td><td>@test</td><td>Sitee used for testing.</td></tr><tr><td>false</td><td>@testers</td><td>Information page for YourSitee's tester program.</td></tr><tr><td>false</td><td>@verified</td><td>Information page for YourSitee's verification program.</td></tr><tr><td>true</td><td>@yoursitee</td><td>YourSitee's main and official account.</td></tr><tr><td>true</td><td>@yshungary</td><td>Hungarian version of @yoursitee.  </td></tr><tr><td>true</td><td>@ysmp</td><td>Sitee for the YourSitee SMP.</td></tr></tbody></table>
+
+## Disclaimer <a href="#disclaimer" id="disclaimer"></a>
+
+All the descriptions for pages that aren't being used are a careful guess. They are based on factors like username, profile picture, profile description, and information from YourSitee Staff. The descriptions for pages that are currently active are verified and confirmed by YourSitee Staff.
+
+If you have found a page that is verified and operated by YourSitee and not on this list, please reach out to [@Robskan](https://sitee.help/c/robskan) or make a pull request on [Github](https://sitee.help/contribute).

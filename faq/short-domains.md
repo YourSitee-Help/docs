@@ -6,7 +6,9 @@ YourSitee has several short domains which are alternatives to the default websit
 
 These links are managed and operated by YourSitee. All data collected (if any) falls under YourSitee's [privacy policy](https://yoursit.ee/privacy).
 
-<table><thead><tr><th>Domain</th><th data-type="checkbox">Supports subdomain¹?</th><th data-type="checkbox">Supports URL²?</th></tr></thead><tbody><tr><td>yoursit.ee</td><td>false</td><td>true</td></tr><tr><td>ysit.ee</td><td>true</td><td>true</td></tr><tr><td>yrs.bio</td><td>true</td><td>true</td></tr><tr><td>yrs.lol</td><td>true</td><td>true</td></tr><tr><td>yrs.wtf</td><td>true</td><td>true</td></tr></tbody></table>
+<table><thead><tr><th>Domain</th><th data-type="checkbox">Supports subdomain¹?</th><th data-type="checkbox">Supports URL²?</th></tr></thead><tbody><tr><td>yoursit.ee*</td><td>false</td><td>true</td></tr><tr><td>ysit.ee</td><td>true</td><td>true</td></tr><tr><td>yrs.bio</td><td>true</td><td>true</td></tr><tr><td>yrs.lol</td><td>true</td><td>true</td></tr><tr><td>yrs.wtf</td><td>true</td><td>true</td></tr></tbody></table>
+
+_\* The_ [_@hungary_](https://yoursit.ee/hungary) _account is the only known account that has a subdomain redirect to their Sitee. Therefore, it is likely an exception granted to them by YourSitee Staff._
 
 ## Unofficial links
 
@@ -32,4 +34,4 @@ Let's take my username (`@rob`) and the short domain `yrs.lol` as an example.
 
 ## Contributors
 
-[Robskan](../contributors.md#robskan), [w4sb0y](../contributors.md#w4sb0y), swamp
+[Robskan](../contributors.md#robskan), [w4sb0y](../contributors.md#w4sb0y) -> Providing the is-a.vip domain, swamp -> Providing the is-on.top domain
