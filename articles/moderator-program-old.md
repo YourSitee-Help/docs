@@ -70,6 +70,6 @@ YourSitee Mod Application
 
 _Please note that we reserve the right to make changes at any time. In special situations, some moderators and/or staff members may act in a way that deviates from the codex, and in such cases, the server administration team will not be held responsible. This document only stands for information._
 
-## Contributors
+## Published by
 
-[Satoko ](../contributors.md#satoko)<img src="../.gitbook/assets/badges/yoursiteeStaff (2).png" alt="" data-size="line">
+[Satoko](../contributors.md#satoko) <img src="../.gitbook/assets/YourSitee Staff - NEW (1).svg" alt="" data-size="line">
