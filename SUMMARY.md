@@ -34,7 +34,7 @@
 ## Articles
 
 * [Moderator crew program](articles/moderator-crew-program.md)
-* [Moderator crew program](articles/moderator-program-old.md)
+* [Moderator crew program](articles/moderator-crew-program-archived.md)
 * [Discord server introduction](articles/discord-server-introduction.md)
 * [Everything new in beta](articles/beta.md)
 * [Official YourSitee handles](articles/official-yoursitee-handles.md)
