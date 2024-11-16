@@ -8,7 +8,7 @@ These links are managed and operated by YourSitee. All data collected (if any) f
 
 <table><thead><tr><th>Domain</th><th data-type="checkbox">Supports subdomain¹?</th><th data-type="checkbox">Supports URL²?</th></tr></thead><tbody><tr><td>yoursit.ee*</td><td>false</td><td>true</td></tr><tr><td>ysit.ee</td><td>true</td><td>true</td></tr><tr><td>yrs.bio</td><td>true</td><td>true</td></tr><tr><td>yrs.lol</td><td>true</td><td>true</td></tr><tr><td>yrs.wtf</td><td>true</td><td>true</td></tr></tbody></table>
 
-_\* The_ [_@hungary_](https://yoursit.ee/hungary) _account is the only known account that has a subdomain redirect to their Sitee. Therefore, it is likely an exception granted to them by YourSitee Staff._
+_\* The_ [_@hungary_](https://yoursit.ee/hungary) _account is the only known account that has a yoursit.ee subdomain redirect to their Sitee. Therefore, it is likely an exception granted to them by YourSitee Staff._
 
 ## Unofficial links
 
