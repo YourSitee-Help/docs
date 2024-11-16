@@ -10,4 +10,4 @@ YourSiteeHelp is an unofficial, community-driven project created to assist the u
 
 As the project is run by the community, we cannot guarantee that all content is complete, current, or correct. Use the information on this site at your own discretion. No rights can be derived from the content on this website, and YourSiteeHelp is not responsible for any errors or inaccuracies.
 
-The website may contain hyperlinks or other references to information from (non-)commercial institutions and organizations. YourSiteeHelp shall not be held liable for the content of such third-party websites and information.
+The website contains (hyper)links or other references to information from (non-)commercial institutions, organizations, and YourSitee pages. YourSiteeHelp shall not be held liable for the content of such third-party websites and information. Content owned by YourSiteeHelp is recognizable by a profile page or reference from this website to that platform. 
