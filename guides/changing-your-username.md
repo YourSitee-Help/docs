@@ -1,9 +1,5 @@
 # Changing your username
 
-{% hint style="info" %}
-Learn more about usernames [here](changing-your-username.md).
-{% endhint %}
-
 ## 1: Edit mode
 
 Go to the [YourSitee website](https://yoursit.ee) and log in. Then, at the bottom of the screen, click the <img src="../.gitbook/assets/Edit%20Button%20(1).png" alt="" data-size="line"> button to enter Edit mode. Click the avatar image to open the YourSitee Account Settings.
