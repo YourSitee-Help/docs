@@ -1,5 +1,11 @@
 # Changing your username
 
+{% hint style="danger" %}
+Warning! You can only change your username once every 12 months.
+{% endhint %}
+
+Do you want to change your username because it sounds cooler, shorter, or else? I got you. Here, I'm guiding you on how to change your username.
+
 ## 1: Edit mode
 
 Go to the [YourSitee website](https://yoursit.ee) and log in. Then, at the bottom of the screen, click the <img src="../.gitbook/assets/Edit%20Button%20(1).png" alt="" data-size="line"> button to enter Edit mode. Click the avatar image to open the YourSitee Account Settings.
