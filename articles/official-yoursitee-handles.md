@@ -6,6 +6,6 @@ YourSitee has 22 official pages ("sitees") managed and operated by them. They ar
 
 ## Disclaimer <a href="#disclaimer" id="disclaimer"></a>
 
-All the descriptions for pages that aren't being used are a careful guess. They are based on factors like username, profile picture, profile description, and information from YourSitee Staff. The descriptions for pages that are currently active are verified and confirmed by YourSitee Staff.
+All descriptions are a careful guess based on username, profile picture, profile description, and information from YourSitee Staff.
 
-If you have found a page that is verified and operated by YourSitee and not on this list, please reach out to [@Robskan](https://sitee.help/c/robskan) or make a pull request on [Github](https://sitee.help/contribute).
+If you found a page verified and operated by YourSitee and not on this list, please contact [@Robskan](https://sitee.help/c/robskan) or make a pull request on our [Github](https://sitee.help/contribute) repository.
