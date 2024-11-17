@@ -1,6 +1,6 @@
 # Short domains
 
-YourSitee has several short domains which are alternatives to the default website, yoursit.ee. I have listed all the official and unofficial short links known to me below.&#x20;
+YourSitee has several short domains which are alternatives to the default website, yoursit.ee. I have listed all the official and unofficial short links known to me below.
 
 ## Official links
 
@@ -8,7 +8,7 @@ These links are managed and operated by YourSitee. All data collected (if any) f
 
 <table><thead><tr><th>Domain</th><th data-type="checkbox">Supports subdomain¹?</th><th data-type="checkbox">Supports URL²?</th></tr></thead><tbody><tr><td>yoursit.ee*</td><td>false</td><td>true</td></tr><tr><td>ysit.ee</td><td>true</td><td>true</td></tr><tr><td>yrs.bio</td><td>true</td><td>true</td></tr><tr><td>yrs.lol</td><td>true</td><td>true</td></tr><tr><td>yrs.wtf</td><td>true</td><td>true</td></tr></tbody></table>
 
-_\* The_ [_@hungary_](https://yoursit.ee/hungary) _account is the only known account that has a yoursit.ee subdomain redirect to their Sitee. Therefore, it is likely an exception granted to them by YourSitee Staff._
+_\* Partners have the exclusive option to get their yoursit.ee subdomain redirect._
 
 ## Unofficial links
 
@@ -19,8 +19,6 @@ These links are **not** managed or operated by YourSitee, meaning that data coll
 {% hint style="info" %}
 Got a domain that redirects to YourSitee? Please contact us via our Discord server: [https/discord.gg/SCWedJUCVC](discord://https/discord.gg/SCWedJUCVC).
 {% endhint %}
-
-
 
 ¹ Subdomain: `username.domain.tld`\
 ² URL: `domain.tld/username`
