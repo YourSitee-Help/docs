@@ -2,6 +2,10 @@
 
 While sharing your YourSitee link in your Discord bio is completely fine, you can also share it in a modern way: Discord connections. Connections are those funny links at the bottom of someone's profile linking to other services, such as YouTube, Reddit, and Twitch.
 
+{% hint style="success" %}
+There is a [video tutorial](discord-profile-connection.md#video-tutorial) available for this article.
+{% endhint %}
+
 Before we begin, make sure you have access to both a YourSitee and Discord account.
 
 ## 1. Edit mode
