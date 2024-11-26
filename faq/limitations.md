@@ -31,3 +31,7 @@ To prevent users from abusing YourSitee, certain limitations were set. You can f
 | Extra Info (location, occupation, etc.) | 30 characters  |
 | Social Connections                      | 12 connections |
 | Custom Buttons                          | 5 buttons      |
+
+## Contributors
+
+[Robskan](../contributors.md#robskan)
