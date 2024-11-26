@@ -10,7 +10,7 @@ This section allows you to change your password and terminate all sessions (incl
 
 ## Invites
 
-In this section you can see if you have received any invites to share with others.
+In this section you can see the invites you have received through YourSitee's invite system. If you've gotten an invite, you can copy the code from your dashboard and send it over to someone.
 
 ## Connections
 
