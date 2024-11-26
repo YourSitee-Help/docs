@@ -16,4 +16,4 @@ After long and hard work, YourSitee finally launched its beta release. You have 
 
 ## First invite wave — Tuesday, November 26, 2024
 
-YourSitee has finally shared the first two invite codes. Already existing YourSitee users can find these invite codes in their account settings. Read more about invite codes.
+YourSitee has finally shared the first two invite codes. Already existing YourSitee users can find these invite codes in their account settings. [Read more about invite codes.](faq/in-short/account-settings.md#invites)
