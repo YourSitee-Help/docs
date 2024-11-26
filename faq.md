@@ -1,5 +1,7 @@
 # FAQ
 
+The answers to the most commonly asked questions about YourSitee and YourSiteeHelp can be found on this page. If you can't find what you're looking for, [click here](https://your.sitee.help/faq?q=) to search.
+
 ## YourSiteeHelp FAQ
 
 These questions are all about YourSiteeHelp and its history. [Click here](faq.md#yoursitee-faq) for a quick overview of YourSitee's frequently asked questions.
