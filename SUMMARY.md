@@ -20,6 +20,7 @@
   * [Customization](faq/in-short/customization.md)
   * [Account settings](faq/in-short/account-settings.md)
 * [Short domains](faq/short-domains.md)
+* [Page limitations](faq/limitations.md)
 
 ***
 
