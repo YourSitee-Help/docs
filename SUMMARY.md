@@ -15,7 +15,7 @@
 
 ## in short
 
-* [In short](in-short/settings/README.md)
+* [Settings](in-short/settings/README.md)
   * [Profile card](in-short/settings/profile-card.md)
   * [Widgets](in-short/settings/widgets.md)
   * [Customization](in-short/settings/customization.md)
