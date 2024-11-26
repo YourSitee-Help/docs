@@ -12,18 +12,19 @@
 
 * [404 — Page not found](pinboard/404.md)
 
-## faq
+## faq <a href="#frequently-asked-questions" id="frequently-asked-questions"></a>
 
-* [In short](faq/in-short/README.md)
-  * [Profile card](faq/in-short/profile-card.md)
-  * [Widgets](faq/in-short/widgets.md)
-  * [Customization](faq/in-short/customization.md)
-  * [Account settings](faq/in-short/account-settings.md)
-* [Short domains](faq/short-domains.md)
-* [Page limitations](faq/limitations.md)
+* [In short](frequently-asked-questions/in-short/README.md)
+  * [Profile card](frequently-asked-questions/in-short/profile-card.md)
+  * [Widgets](frequently-asked-questions/in-short/widgets.md)
+  * [Customization](frequently-asked-questions/in-short/customization.md)
+  * [Account settings](frequently-asked-questions/in-short/account-settings.md)
+* [Short domains](frequently-asked-questions/short-domains.md)
+* [Page limitations](frequently-asked-questions/limitations.md)
 
 ***
 
+* [FAQ](faq.md)
 * [Profile badges](badges.md)
 
 ## Guides
