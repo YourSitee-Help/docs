@@ -55,7 +55,7 @@ YourSitee has an External Link field that works with many types of URLs, making 
 
 | Type           | Preview                                                                     |
 | -------------- | --------------------------------------------------------------------------- |
-| Title with URL | <img src="../../.gitbook/assets/image.png" alt="" data-size="original">     |
+| Title with URL | <img src="../../.gitbook/assets/image (1).png" alt="" data-size="original"> |
 | URL only       | <img src="../../.gitbook/assets/image (2).png" alt="" data-size="original"> |
 
 ## Title
