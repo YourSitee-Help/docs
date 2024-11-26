@@ -16,6 +16,6 @@ After long and hard work, YourSitee finally launched its beta release. You have 
 
 ## Update — Tuesday, November 26, 2024
 
-* YourSitee has finally shared the first two invite codes. Already existing YourSitee users can find these invite codes in their account settings. [Read more about invite codes.](frequently-asked-questions/in-short/account-settings.md#invites)
+* YourSitee has finally shared the first two invite codes. Already existing YourSitee users can find these invite codes in their account settings. [Read more about invite codes.](in-short/settings/account-settings.md#invites)
 * The widgets have been updated! Now, instead of showing the name of the social media platforms, there's a cool new icon in the top right corner of the widget that shows the logo of the platform.
 * You can now customize the size & looks of your Instagram widget.

@@ -7,24 +7,24 @@
 ***
 
 * [Contributors](contributors.md)
+* [FAQ](faq.md)
 
 ## Pinned <a href="#pinboard" id="pinboard"></a>
 
 * [404 — Page not found](pinboard/404.md)
 
-## faq <a href="#frequently-asked-questions" id="frequently-asked-questions"></a>
+## in short
 
-* [In short](frequently-asked-questions/in-short/README.md)
-  * [Profile card](frequently-asked-questions/in-short/profile-card.md)
-  * [Widgets](frequently-asked-questions/in-short/widgets.md)
-  * [Customization](frequently-asked-questions/in-short/customization.md)
-  * [Account settings](frequently-asked-questions/in-short/account-settings.md)
-* [Short domains](frequently-asked-questions/short-domains.md)
-* [Page limitations](frequently-asked-questions/limitations.md)
+* [In short](in-short/settings/README.md)
+  * [Profile card](in-short/settings/profile-card.md)
+  * [Widgets](in-short/settings/widgets.md)
+  * [Customization](in-short/settings/customization.md)
+  * [Account settings](in-short/settings/account-settings.md)
+* [Short domains](in-short/short-domains.md)
+* [Page limitations](in-short/limitations.md)
 
 ***
 
-* [FAQ](faq.md)
 * [Profile badges](badges.md)
 
 ## Guides
