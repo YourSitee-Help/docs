@@ -14,6 +14,8 @@ On Christmas Eve 2023, YourSitee launched its alpha version. Users who already h
 
 After long and hard work, YourSitee finally launched its beta release. You have to sign up for a waitlist or be invited by someone with a code to create an account.
 
-## First invite wave — Tuesday, November 26, 2024
+## Update — Tuesday, November 26, 2024
 
-YourSitee has finally shared the first two invite codes. Already existing YourSitee users can find these invite codes in their account settings. [Read more about invite codes.](faq/in-short/account-settings.md#invites)
+* YourSitee has finally shared the first two invite codes. Already existing YourSitee users can find these invite codes in their account settings. [Read more about invite codes.](faq/in-short/account-settings.md#invites)
+* The widgets have been updated! Now, instead of showing the name of the social media platforms, there's a cool new icon in the top right corner of the widget that shows the logo of the platform.
+* There's supposed to be something else as well, but we couldn't find it—yet. If you have any ideas on this, please reach out to us!
