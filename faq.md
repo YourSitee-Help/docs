@@ -2,37 +2,23 @@
 
 The answers to the most commonly asked questions about YourSitee and YourSiteeHelp can be found on this page. If you can't find what you're looking for, [click here](https://your.sitee.help/faq?q=) to search.
 
-## YourSiteeHelp FAQ
-
-These questions are all about YourSiteeHelp and its history. [Click here](faq.md#yoursitee-faq) for a quick overview of YourSitee's frequently asked questions.
-
-<details>
-
-<summary>Who owns YourSiteeHelp?</summary>
-
-There's not really someone who 100% owns the project, but I, Robbie, am the starter of this project and manage YourSiteeHelp's social accounts, etc.
-
-</details>
-
-<details>
-
-<summary>Why does YourSiteeHelp exist?</summary>
-
-The project began when Robbie, the project lead, could not find a documentation page or help center. The project began to quickly answer everyone's questions but is now also the go-to place for news, guides, and more.
-
-</details>
-
-<details>
-
-<summary>When did YourSiteeHelp start?</summary>
-
-YourSiteeHelp was created on August 4, 2024.
-
-</details>
-
 
 
 ## YourSitee FAQ
+
+### Waitlist
+
+<details>
+
+<summary>How long does it take to be accepted from the waitlist?</summary>
+
+Users who have signed up for YourSitee's waitlist have not yet received an invite to create an account, but this will be the case in the future.
+
+[Source: X Post](https://x.com/YourSitee/status/1864599127109009546)
+
+</details>
+
+### Invite codes
 
 <details>
 
@@ -49,3 +35,18 @@ At the moment, no policy prohibits the selling of invite codes. So yes, you are 
 Invite codes are mainly given out in waves, but there may appear an invite in your dashboard randomly, so you should check the Invites section pretty often!&#x20;
 
 </details>
+
+## YourSiteeHelp FAQ
+
+These questions are all about YourSiteeHelp and its history. [Click here](faq.md#yoursitee-faq) for a quick overview of YourSitee's frequently asked questions.
+
+<details>
+
+<summary>When and why did YourSiteeHelp start?</summary>
+
+The project began when Robbie, the project lead, could not find a documentation page or help center after creating an account himself. After finding out how things worked and talking with YourSitee's staff team, YourSiteeHelp was founded to answer everyone's questions. It is now also the go-to place for news, guides, and more.9
+
+YourSiteeHelp was founded August 4, 2024.
+
+</details>
+
