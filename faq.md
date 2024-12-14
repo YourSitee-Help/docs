@@ -36,6 +36,18 @@ Invite codes are mainly given out in waves, but there may appear an invite in yo
 
 </details>
 
+### Sitees
+
+<details>
+
+<summary>Is there a demo Sitee?</summary>
+
+Yes, there is indeed a site that shows most of the widgets you can add to your profile page. But, because YourSitee have limits on the number of widgets you can add, we could not show all widgets, but the most prominent ones are on there!
+
+You can check out the demo at [https://yoursit.ee/showcase](https://yoursit.ee/showcase).
+
+</details>
+
 ## YourSiteeHelp FAQ
 
 These questions are all about YourSiteeHelp and its history. [Click here](faq.md#yoursitee-faq) for a quick overview of YourSitee's frequently asked questions.
