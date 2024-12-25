@@ -19,3 +19,7 @@ After long and hard work, YourSitee finally launched its beta release. You have 
 * YourSitee has finally shared the first two invite codes. Already existing YourSitee users can find these invite codes in their account settings. [Read more about invite codes.](in-short/settings/account-settings.md#invites)
 * The widgets have been updated! Now, instead of showing the name of the social media platforms, there's a cool new icon in the top right corner of the widget that shows the logo of the platform.
 * You can now customize the size & looks of your Instagram widget.
+
+## Christmas — Wednesday, December 25, 2024
+
+As a thank-you for all support YourSitee has gotten from its users, a -50% offer was created for the <img src=".gitbook/assets/faq/all-profile-badges/earlySupporter.png" alt="" data-size="line"> Early Supporter badge. You can now obtain it for $5 instead of $10.
