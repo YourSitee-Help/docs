@@ -22,4 +22,4 @@ After long and hard work, YourSitee finally launched its beta release. You have 
 
 ## Christmas — Wednesday, December 25, 2024 <a href="#dec25-2024" id="dec25-2024"></a>
 
-As a thank-you for all support YourSitee has gotten from its users, a -50% offer was created for the <img src=".gitbook/assets/faq/all-profile-badges/earlySupporter.png" alt="" data-size="line"> Early Supporter badge. You can now obtain it for $5 instead of $10.
+To show appreciation for all the support YourSitee has received from its users, they are offering a 50% discount on the <img src=".gitbook/assets/faq/all-profile-badges/earlySupporter.png" alt="" data-size="line"> [Early Supporter](badges.md#early-supporter) badge. From December 25 to December 29, you can get the badge for just $5 instead of the usual $10.&#x20;
